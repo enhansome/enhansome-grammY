@@ -1,0 +1,646 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "backmeupplz/voicy",
+          "description": "A bot that transcribes audio messages to text.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-08T08:44:53Z",
+            "owner": "backmeupplz",
+            "repo": "voicy",
+            "stars": 908
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "callsmusic/remix",
+          "description": "Stream YouTube videos, radios and audio files in Telegram calls.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2022-09-24T18:55:20Z",
+            "owner": "callsmusic",
+            "repo": "remix",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astrian/tg-watchdog",
+          "description": "The brand new anti-abuse solution for group chats. ᴜsᴇ",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T01:15:21Z",
+            "owner": "tg-watchdog",
+            "repo": "tg-watchdog",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Borodutch/VideoDownloadBot",
+          "description": "Download videos from the Internet to Telegram.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-07-24T18:11:13Z",
+            "owner": "Borodutch",
+            "repo": "VideoDownloadBot",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ArnabXD/TGVCBot",
+          "description": "Play music in group voice chat. Supports JioSaavn, YouTube and files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-12T20:50:52Z",
+            "owner": "ArnabXD",
+            "repo": "TGVCBot",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bot-base/scan-tool-bot",
+          "description": "Scan QR codes with your camera. ᴜsᴇ",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-06-25T07:33:02Z",
+            "owner": "bot-base",
+            "repo": "scan-tool-bot",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ArnabXD/AnimeDB-tgbot",
+          "description": "Search and retrieve anime and manga.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-09-07T03:37:22Z",
+            "owner": "ArnabXD",
+            "repo": "AnimeDB-tgbot",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "voxelin/groombot",
+          "description": "Groombot is a temporary email service that allows you to generate unlimited email addresses with your own domain on your phone. ᴜsᴇ",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-07-23T12:40:48Z",
+            "owner": "kyee-rs",
+            "repo": "Ymail",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dcdunkan/show-json-bot",
+          "description": "See the JSON data behind Telegram messages. ᴜsᴇ",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-11-15T12:03:22Z",
+            "owner": "dcdunkan",
+            "repo": "show-json-bot",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ThemerBot/ThemerBot",
+          "description": "Create themes for most official Telegram apps based on a picture. ᴜsᴇ",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-06-21T14:22:32Z",
+            "owner": "ThemerBot",
+            "repo": "ThemerBot",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dcdunkan/syntax-highlighter-bot",
+          "description": "Syntax highlighting for code blocks in messages. ᴜsᴇ",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-09-26T21:26:01Z",
+            "owner": "dcdunkan",
+            "repo": "syntax-highlighter-bot",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpEcHiDe/JsonBot",
+          "description": "A bot that sends the JSON representations of most of the updates of the Bot API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-17T13:27:30Z",
+            "owner": "SpEcHiDe",
+            "repo": "JsonBot",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "darvesh/thewatbot",
+          "description": "Inline dictionary bot. Supports many languages. ᴜsᴇ",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-10T20:26:33Z",
+            "owner": "darvesh",
+            "repo": "thewatbot",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KnorpelSenf/link-preview-bot",
+          "description": "Generate link previews for all links in messages. ᴜsᴇ",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-03T14:10:34Z",
+            "owner": "KnorpelSenf",
+            "repo": "link-preview-bot",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "binamralamsal/WordSeek",
+          "description": "A fun and competitive Wordle-style game that you can play with friends. ᴜsᴇ",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-06T03:03:54Z",
+            "owner": "binamralamsal",
+            "repo": "WordSeek",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kolay-v/chessbot-reborn",
+          "description": "The inline PvP chess game bot. ᴜsᴇ",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-01-09T18:30:55Z",
+            "owner": "kolay-v",
+            "repo": "chessbot-reborn",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "darvesh/remindmebot",
+          "description": "Set reminder to a message in a group. ᴜsᴇ",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-12-21T16:10:55Z",
+            "owner": "darvesh",
+            "repo": "remindmebot",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShinkarenkoMaxim/simple-quiz",
+          "description": "A simple quiz bot as Web App.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-05-07T07:14:33Z",
+            "owner": "ShinkarenkoMaxim",
+            "repo": "simple-quiz",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dcdunkan/ryportbot",
+          "description": "Time-aware bot for reporting members to admins. ᴜsᴇ",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-10-08T14:12:25Z",
+            "owner": "dcdunkan",
+            "repo": "ryportbot",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vrumger/GibHugBot",
+          "description": "Get notified about GitHub events right in Telegram. ᴜsᴇ",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-10-20T11:25:01Z",
+            "owner": "vrumger",
+            "repo": "GibHugBot",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpamWatch/SpamWatchBot",
+          "description": "The official help bot for SpamWatch. ᴜsᴇ",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-01-06T22:33:41Z",
+            "owner": "SpamWatch",
+            "repo": "SpamWatchBot",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SaDi-BRo/openai-bot",
+          "description": "Interact with OpenAI APIs from Telegram.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-10T19:23:35Z",
+            "owner": "SaDi-BRo",
+            "repo": "openai-bot",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burhanverse/rssify",
+          "description": "A feature-rich RSS bot with support for forum topics.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2026-07-22T03:06:36Z",
+            "owner": "Burhanverse",
+            "repo": "rssify",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grammyjs/docs-bot",
+          "description": "Search and share grammY docs right inside Telegram. ᴜsᴇ",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-12-30T01:15:12Z",
+            "owner": "grammyjs",
+            "repo": "docs-bot",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gab-palmeri/TagBot",
+          "description": "Create tags to mention multiple group members at once. ᴜsᴇ",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-12T20:31:57Z",
+            "owner": "gab-palmeri",
+            "repo": "TagBot",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "voxelin/unihook",
+          "description": "This bot makes a webhook listener and parses its payload by user-given template. ᴜsᴇ",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-06-01T04:27:42Z",
+            "owner": "kyee-rs",
+            "repo": "unihook",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burhanverse/tunified",
+          "description": "A Telegram bot to fetch the currently playing song from Last.fm and shares it on Telegram.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2026-07-21T02:42:36Z",
+            "owner": "Burhanverse",
+            "repo": "Tunified",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KnorpelSenf/cattpbot",
+          "description": "Send cat pictures from https://http.cat instead of HTTP status codes. ᴜsᴇ",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-27T08:54:58Z",
+            "owner": "KnorpelSenf",
+            "repo": "cattpbot",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vrumger/WhisperedBot",
+          "description": "Send whispers to people in groups so no one else can read them. ᴜsᴇ",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-18T20:39:56Z",
+            "owner": "vrumger",
+            "repo": "WhisperedBot",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gabeklavans/gamejay-bot",
+          "description": "Serves various multiplayer mini-games, inspired by GamePigeon for iOS. ᴜsᴇ",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-12-22T17:24:07Z",
+            "owner": "gabeklavans",
+            "repo": "gamejay-bot",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yonle/etchosts",
+          "description": "A bot that generates DNS files for domains. ᴜsᴇ",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-04-18T09:44:24Z",
+            "owner": "Yonle",
+            "repo": "etchosts",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Taofeekabdulazeez/word-ninjas",
+          "description": "A game where multiple players compete to solve anagrams in real-time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-12T10:08:01Z",
+            "owner": "Taofeekabdulazeez",
+            "repo": "word-ninjas",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Emidio21/FilmChecker-TGBot",
+          "description": "Search which platform hosts a movie all around the world.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-04-18T21:54:15Z",
+            "owner": "Emidio21",
+            "repo": "FilmChecker-TGBot",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IgorShadurin/weight-telegram-bot",
+          "description": "Track photo-backed weekly weight goals in groups with charts, reminders, 53 achievements, and nine natural localizations. ᴜsᴇ.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T04:55:16Z",
+            "owner": "IgorShadurin",
+            "repo": "weight-telegram-bot",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeltaUniverse/peerUser",
+          "description": "Auto-Delete Incoming Private Messages. ᴜsᴇ",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-30T14:22:01Z",
+            "owner": "DeltaUniverse",
+            "repo": "peerUser",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Bots"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "bot-base/telegram-bot-template",
+          "description": "A starter bot template with a scalable structure and ready-to-use Docker setup.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-26T19:42:14Z",
+            "owner": "bot-base",
+            "repo": "telegram-bot-template",
+            "stars": 442
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Borodutch/telegram-bot-starter",
+          "description": "Telegram bot starter based on grammY.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-04-26T16:09:07Z",
+            "owner": "Borodutch",
+            "repo": "telegram-bot-starter",
+            "stars": 241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PavelPolyakov/grammy-with-tests",
+          "description": "An example bot which is covered with tests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-05-16T21:25:39Z",
+            "owner": "PavloPoliakov",
+            "repo": "grammy-with-tests",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShinkarenkoMaxim/webapp-vanilla",
+          "description": "Telegram Web App starter template.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-05-06T20:49:47Z",
+            "owner": "ShinkarenkoMaxim",
+            "repo": "webapp-vanilla",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PonomareVlad/grammYVercelEdge",
+          "description": "Template for Vercel Edge Functions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-05T00:52:31Z",
+            "owner": "PonomareVlad",
+            "repo": "grammYVercel",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "waptik/grammy-on-deta-template",
+          "description": "A template to start a grammY bot and deploy it on Deta. ᴜsᴇ",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-08-09T10:10:03Z",
+            "owner": "waptik",
+            "repo": "grammy-on-deta-template",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xditya/GrammyCloneableBot",
+          "description": "A template for bots that can be cloned.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-12-11T11:07:21Z",
+            "owner": "xditya",
+            "repo": "GrammyCloneableBot",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Templates"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "VDS13/telegram-inline-calendar",
+          "description": "Date picker and inline calendar for your bots.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-03-26T12:53:47Z",
+            "owner": "VDS13",
+            "repo": "telegram-inline-calendar",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@toptl/grammy",
+          "description": "Plugin for TOP.TL, the Telegram directory. Auto-posts bot stats and enables vote-gating.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-21T23:03:02Z",
+            "owner": "top-tl",
+            "repo": "grammy",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Plugins"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:01:00.956Z",
+    "original_repository": "grammyjs/awesome-grammY",
+    "original_repository_sha": "9c26a6fb3eb05cb3310750b733acc5ef5fe6af2c",
+    "enhanced_repository": "enhansome/enhansome-grammY",
+    "enhanced_repository_description": null,
+    "title": "Awesome grammY with stars"
+  }
+}
