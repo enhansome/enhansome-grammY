@@ -510,7 +510,7 @@
             "last_commit": "2025-11-26T19:42:14Z",
             "owner": "bot-base",
             "repo": "telegram-bot-template",
-            "stars": 442
+            "stars": 443
           }
         },
         {
@@ -636,7 +636,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T02:30:23.750Z",
+    "last_updated": "2026-08-16T02:39:11.905Z",
     "original_repository": "grammyjs/awesome-grammY",
     "original_repository_sha": "9c26a6fb3eb05cb3310750b733acc5ef5fe6af2c",
     "enhanced_repository": "enhansome/enhansome-grammY",

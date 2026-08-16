@@ -54,7 +54,7 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 
 ## Templates
 
-* [bot-base/telegram-bot-template](https://github.com/bot-base/telegram-bot-template) ⭐ 442 | 🐛 15 | 🌐 TypeScript | 📅 2025-11-26 - A starter bot template with a scalable structure and ready-to-use Docker setup.
+* [bot-base/telegram-bot-template](https://github.com/bot-base/telegram-bot-template) ⭐ 443 | 🐛 15 | 🌐 TypeScript | 📅 2025-11-26 - A starter bot template with a scalable structure and ready-to-use Docker setup.
 * [Borodutch/telegram-bot-starter](https://github.com/Borodutch/telegram-bot-starter) ⭐ 241 | 🐛 4 | 🌐 TypeScript | 📅 2023-04-26 - Telegram bot starter based on grammY.
 * [PavelPolyakov/grammy-with-tests](https://github.com/PavelPolyakov/grammy-with-tests) ⭐ 29 | 🐛 1 | 🌐 TypeScript | 📅 2025-05-16 - An example bot which is covered with tests.
 * [ShinkarenkoMaxim/webapp-vanilla](https://github.com/ShinkarenkoMaxim/webapp-vanilla) ⭐ 20 | 🐛 0 | 🌐 HTML | 📅 2022-05-06 - Telegram Web App starter template.
@@ -73,4 +73,4 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
