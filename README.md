@@ -73,4 +73,4 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
