@@ -177,7 +177,7 @@
             "archived": false,
             "id": 594727039,
             "language": "TypeScript",
-            "last_commit": "2026-07-17T13:27:30Z",
+            "last_commit": "2026-08-23T02:55:38Z",
             "owner": "SpEcHiDe",
             "repo": "JsonBot",
             "stars": 26
@@ -680,7 +680,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T02:41:43.175Z",
+    "last_updated": "2026-08-24T02:42:35.948Z",
     "original_repository": "grammyjs/awesome-grammY",
     "original_repository_id": 399372284,
     "original_repository_sha": "9c26a6fb3eb05cb3310750b733acc5ef5fe6af2c",

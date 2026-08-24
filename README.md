@@ -24,7 +24,7 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 * [dcdunkan/show-json-bot](https://github.com/dcdunkan/show-json-bot) ⭐ 33 | 🐛 0 | 🌐 TypeScript | 📅 2024-11-15 - See the JSON data behind Telegram messages. [ᴜsᴇ](https://t.me/jsoonbot)
 * [ThemerBot/ThemerBot](https://github.com/ThemerBot/themerbot) ⭐ 30 | 🐛 1 | 🌐 TypeScript | 📅 2024-06-21 - Create themes for most official Telegram apps based on a picture. [ᴜsᴇ](https://t.me/themerbot)
 * [dcdunkan/syntax-highlighter-bot](https://github.com/dcdunkan/syntax-highlighter-bot) ⭐ 30 | 🐛 1 | 🌐 TypeScript | 📅 2023-09-26 - Syntax highlighting for code blocks in messages. [ᴜsᴇ](https://t.me/syntaxybot)
-* [SpEcHiDe/JsonBot](https://github.com/SpEcHiDe/JsonBot) ⭐ 26 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-17 - A bot that sends the JSON representations of most of the updates of the Bot API.
+* [SpEcHiDe/JsonBot](https://github.com/SpEcHiDe/JsonBot) ⭐ 26 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-23 - A bot that sends the JSON representations of most of the updates of the Bot API.
 * [darvesh/thewatbot](https://github.com/darvesh/thewatbot) ⭐ 23 | 🐛 0 | 🌐 TypeScript | 📅 2025-12-10 - Inline dictionary bot. Supports many languages. [ᴜsᴇ](https://t.me/thewatbot)
 * [KnorpelSenf/link-preview-bot](https://github.com/KnorpelSenf/link-preview-bot) ⭐ 19 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-03 - Generate link previews for all links in messages. [ᴜsᴇ](https://t.me/linkpreviewbot)
 * [binamralamsal/WordSeek](https://github.com/binamralamsal/WordSeek) ⭐ 19 | 🐛 1 | 🌐 TypeScript | 📅 2026-06-06 - A fun and competitive Wordle-style game that you can play with friends. [ᴜsᴇ](https://t.me/WordSeekBot)
@@ -73,4 +73,4 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
