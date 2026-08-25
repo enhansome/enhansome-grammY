@@ -13,7 +13,7 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 
 ## Bots
 
-* [backmeupplz/voicy](https://github.com/backmeupplz/voicy/) ⭐ 908 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-08 - A bot that transcribes audio messages to text.
+* [backmeupplz/voicy](https://github.com/backmeupplz/voicy/) ⭐ 909 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-08 - A bot that transcribes audio messages to text.
 * [callsmusic/remix](https://github.com/callsmusic/remix) ⚠️ Archived - Stream YouTube videos, radios and audio files in Telegram calls.
 * [Astrian/tg-watchdog](https://github.com/Astrian/tg-watchdog) ⭐ 144 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-12 - The brand new anti-abuse solution for group chats. [ᴜsᴇ](https://t.me/WatchdogVerifyBot?startgroup=start\&admin=can_invite_users)
 * [Borodutch/VideoDownloadBot](https://github.com/Borodutch/VideoDownloadBot) ⭐ 141 | 🐛 6 | 🌐 TypeScript | 📅 2024-07-24 - Download videos from the Internet to Telegram.
@@ -73,4 +73,4 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
