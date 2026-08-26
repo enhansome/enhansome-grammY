@@ -26,7 +26,7 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 * [dcdunkan/syntax-highlighter-bot](https://github.com/dcdunkan/syntax-highlighter-bot) ⭐ 30 | 🐛 1 | 🌐 TypeScript | 📅 2023-09-26 - Syntax highlighting for code blocks in messages. [ᴜsᴇ](https://t.me/syntaxybot)
 * [SpEcHiDe/JsonBot](https://github.com/SpEcHiDe/JsonBot) ⭐ 26 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-23 - A bot that sends the JSON representations of most of the updates of the Bot API.
 * [darvesh/thewatbot](https://github.com/darvesh/thewatbot) ⭐ 23 | 🐛 0 | 🌐 TypeScript | 📅 2025-12-10 - Inline dictionary bot. Supports many languages. [ᴜsᴇ](https://t.me/thewatbot)
-* [KnorpelSenf/link-preview-bot](https://github.com/KnorpelSenf/link-preview-bot) ⭐ 19 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-03 - Generate link previews for all links in messages. [ᴜsᴇ](https://t.me/linkpreviewbot)
+* [KnorpelSenf/link-preview-bot](https://github.com/KnorpelSenf/link-preview-bot) ⭐ 20 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-03 - Generate link previews for all links in messages. [ᴜsᴇ](https://t.me/linkpreviewbot)
 * [binamralamsal/WordSeek](https://github.com/binamralamsal/WordSeek) ⭐ 19 | 🐛 1 | 🌐 TypeScript | 📅 2026-06-06 - A fun and competitive Wordle-style game that you can play with friends. [ᴜsᴇ](https://t.me/WordSeekBot)
 * [kolay-v/chessbot-reborn](https://github.com/kolay-v/chessbot-reborn) ⭐ 17 | 🐛 0 | 🌐 TypeScript | 📅 2024-01-09 - The inline PvP chess game bot. [ᴜsᴇ](https://t.me/chess101bot)
 * [darvesh/remindmebot](https://github.com/darvesh/remindmebot) ⭐ 16 | 🐛 0 | 🌐 TypeScript | 📅 2024-12-21 - Set reminder to a message in a group. [ᴜsᴇ](https://t.me/thymisebot)
@@ -46,8 +46,8 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 * [Yonle/etchosts](https://github.com/Yonle/etchosts) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2022-04-18 - A bot that generates DNS files for domains. [ᴜsᴇ](https://t.me/etchosts_bot)
 * [Taofeekabdulazeez/word-ninjas](https://github.com/Taofeekabdulazeez/word-ninjas) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-12 - A game where multiple players compete to solve anagrams in real-time.
 * [Emidio21/FilmChecker-TGBot](https://github.com/Emidio21/FilmChecker-TGBot) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2023-04-18 - Search which platform hosts a movie all around the world.
-* [DeltaUniverse/peerUser](https://github.com/DeltaUniverse/peerUser) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-22 - Auto-Delete Incoming Private Messages. [ᴜsᴇ](https://t.me/peerUserbot)
 * [IgorShadurin/weight-telegram-bot](https://github.com/IgorShadurin/weight-telegram-bot) ⭐ 1 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-22 - Track photo-backed weekly weight goals in groups with charts, reminders, 53 achievements, and nine natural localizations. [ᴜsᴇ](https://t.me/my_weight_goal_bot).
+* [DeltaUniverse/peerUser](https://github.com/DeltaUniverse/peerUser) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-22 - Auto-Delete Incoming Private Messages. [ᴜsᴇ](https://t.me/peerUserbot)
 * [@ChannelHashBot](https://t.me/ChannelHashBot) - Keep track of hashtags that are sent to your group by forwarding them to a channel.
 * [@yestoscambot](https://t.me/yestoscambot) - A bot that bans as many spammers as it can!
 * [@OmniDubBot](https://t.me/OmniDubBot) - A bot that dubs your voice notes into 10+ languages.
@@ -73,4 +73,4 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
