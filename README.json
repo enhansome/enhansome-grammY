@@ -42,7 +42,7 @@
             "archived": false,
             "id": 451886942,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T01:15:21Z",
+            "last_commit": "2026-08-27T07:11:53Z",
             "owner": "tg-watchdog",
             "repo": "tg-watchdog",
             "stars": 144
@@ -561,7 +561,7 @@
             "last_commit": "2023-04-26T16:09:07Z",
             "owner": "Borodutch",
             "repo": "telegram-bot-starter",
-            "stars": 241
+            "stars": 240
           }
         },
         {
@@ -680,9 +680,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:44:11.048Z",
-    "original_repository": "grammyjs/awesome-grammY",
-    "original_repository_id": 399372284,
+    "last_updated": "2026-08-27T11:41:09.038Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 399372284,
+      "language": null,
+      "last_commit": "2026-07-27T17:53:09Z",
+      "owner": "grammyjs",
+      "repo": "awesome-grammY",
+      "stars": 278
+    },
     "original_repository_sha": "9c26a6fb3eb05cb3310750b733acc5ef5fe6af2c",
     "enhanced_repository": "enhansome/enhansome-grammY",
     "enhanced_repository_description": null,
