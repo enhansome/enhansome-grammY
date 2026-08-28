@@ -47,7 +47,7 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 * [Taofeekabdulazeez/word-ninjas](https://github.com/Taofeekabdulazeez/word-ninjas) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-12 - A game where multiple players compete to solve anagrams in real-time.
 * [Emidio21/FilmChecker-TGBot](https://github.com/Emidio21/FilmChecker-TGBot) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2023-04-18 - Search which platform hosts a movie all around the world.
 * [IgorShadurin/weight-telegram-bot](https://github.com/IgorShadurin/weight-telegram-bot) ⭐ 1 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-22 - Track photo-backed weekly weight goals in groups with charts, reminders, 53 achievements, and nine natural localizations. [ᴜsᴇ](https://t.me/my_weight_goal_bot).
-* [DeltaUniverse/peerUser](https://github.com/DeltaUniverse/peerUser) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-22 - Auto-Delete Incoming Private Messages. [ᴜsᴇ](https://t.me/peerUserbot)
+* [DeltaUniverse/peerUser](https://github.com/DeltaUniverse/peerUser) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-28 - Auto-Delete Incoming Private Messages. [ᴜsᴇ](https://t.me/peerUserbot)
 * [@ChannelHashBot](https://t.me/ChannelHashBot) - Keep track of hashtags that are sent to your group by forwarding them to a channel.
 * [@yestoscambot](https://t.me/yestoscambot) - A bot that bans as many spammers as it can!
 * [@OmniDubBot](https://t.me/OmniDubBot) - A bot that dubs your voice notes into 10+ languages.
@@ -73,4 +73,4 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
