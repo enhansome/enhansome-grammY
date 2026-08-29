@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "@voicybot Telegram bot main repository",
+            "homepage": "https://voicybot.com",
             "id": 75456200,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-08T08:44:53Z",
+            "open_issues": 0,
             "owner": "backmeupplz",
             "repo": "voicy",
-            "stars": 909
+            "stars": 909,
+            "topics": [
+              "bot",
+              "speech-to-text",
+              "telegam",
+              "telegram-bot"
+            ]
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         },
@@ -26,12 +36,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Powerful Telegram music bot.",
+            "homepage": null,
             "id": 384520525,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2022-09-24T18:55:20Z",
+            "open_issues": 1,
             "owner": "callsmusic",
             "repo": "remix",
-            "stars": 188
+            "stars": 188,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         },
@@ -42,12 +57,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The brand-new solution for anti-abuse from Telegram groupchats.",
+            "homepage": "https://tgwatchdog.astrian.moe",
             "id": 451886942,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T07:11:53Z",
+            "open_issues": 11,
             "owner": "tg-watchdog",
             "repo": "tg-watchdog",
-            "stars": 144
+            "stars": 144,
+            "topics": [
+              "bot",
+              "telegram",
+              "telegram-bot",
+              "telegram-group"
+            ]
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         },
@@ -58,12 +83,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Telegram bot to download videos from URLs",
+            "homepage": "https://t.me/VideoDownloadBot",
             "id": 430181916,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-07-24T18:11:13Z",
+            "open_issues": 6,
             "owner": "Borodutch",
             "repo": "VideoDownloadBot",
-            "stars": 141
+            "stars": 141,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         },
@@ -74,12 +104,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Telegram VC Music Bot",
+            "homepage": "http://tgvcbot.vercel.app",
             "id": 381404462,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-12T20:50:52Z",
+            "open_issues": 4,
             "owner": "ArnabXD",
             "repo": "TGVCBot",
-            "stars": 98
+            "stars": 98,
+            "topics": [
+              "music-bot-telegram",
+              "telegram",
+              "telegram-bot",
+              "tgvcbot",
+              "voice-chat-bot"
+            ]
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         },
@@ -90,12 +131,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scan and create QR codes in Telegram",
+            "homepage": "https://t.me/ScanToolBot",
             "id": 485816705,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2024-06-25T07:33:02Z",
+            "open_issues": 2,
             "owner": "bot-base",
             "repo": "scan-tool-bot",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "bot",
+              "grammy",
+              "grammyjs",
+              "qrcode",
+              "qrcode-generator",
+              "qrcode-scanner",
+              "telegram",
+              "telegram-api",
+              "telegram-bot",
+              "telegram-bot-api",
+              "telegram-web-app"
+            ]
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         },
@@ -106,12 +164,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Search info about anime ,manga from Telegram",
+            "homepage": null,
             "id": 269543594,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2022-09-07T03:37:22Z",
+            "open_issues": 1,
             "owner": "ArnabXD",
             "repo": "AnimeDB-tgbot",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "anilist-api",
+              "animedb-tgbot",
+              "bot",
+              "grammyjs",
+              "manga",
+              "telegram",
+              "telegram-bot"
+            ]
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         },
@@ -122,12 +193,29 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "YmailBot - Temporary Email Service in your smartphone. 📬",
+            "homepage": "https://t.me/ymailerbot",
             "id": 606465701,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2023-07-23T12:40:48Z",
+            "open_issues": 0,
             "owner": "kyee-rs",
             "repo": "Ymail",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "bot",
+              "deno",
+              "docker",
+              "docker-compose",
+              "email",
+              "mailgun",
+              "telegram",
+              "tempmail",
+              "tg",
+              "tgbot",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         },
@@ -138,12 +226,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple bot to show JSON data of Telegram messages.",
+            "homepage": "https://telegram.me/jsoonbot",
             "id": 412877118,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-11-15T12:03:22Z",
+            "open_issues": 0,
             "owner": "dcdunkan",
             "repo": "show-json-bot",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "grammyjs",
+              "show-json",
+              "telegram-bot",
+              "tg-devtools"
+            ]
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         },
@@ -154,12 +252,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Telegram bot to create Telegram themes based on a picture.",
+            "homepage": "https://t.me/ThemerBot",
             "id": 137970634,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2024-06-21T14:22:32Z",
+            "open_issues": 1,
             "owner": "ThemerBot",
             "repo": "ThemerBot",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         },
@@ -170,12 +275,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A customizable syntax highlighter bot for Telegram.",
+            "homepage": "https://telegram.me/syntaxybot",
             "id": 482048230,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-09-26T21:26:01Z",
+            "open_issues": 1,
             "owner": "dcdunkan",
             "repo": "syntax-highlighter-bot",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "bot",
+              "deno",
+              "deta",
+              "grammyjs",
+              "highlightjs",
+              "puppeteer",
+              "syntax-highlighting",
+              "telegram-bot"
+            ]
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         },
@@ -186,12 +305,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "https://t.me/useTGxBot - Bot to Display telegram-bot-api JSON of all sent messages",
+            "homepage": null,
             "id": 594727039,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-23T02:55:38Z",
+            "open_issues": 1,
             "owner": "SpEcHiDe",
             "repo": "JsonBot",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         },
@@ -202,12 +326,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Telegram Dictionary Bot",
+            "homepage": null,
             "id": 418654301,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-12-10T20:26:33Z",
+            "open_issues": 0,
             "owner": "darvesh",
             "repo": "thewatbot",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "bot",
+              "dictionary",
+              "english-dictionary",
+              "grammyjs",
+              "telegram",
+              "telegram-bot"
+            ]
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         },
@@ -218,12 +354,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Telegram bot to generate link previews for all links in messages.",
+            "homepage": "https://t.me/linkpreviewbot",
             "id": 199831763,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-02-03T14:10:34Z",
+            "open_issues": 0,
             "owner": "KnorpelSenf",
             "repo": "link-preview-bot",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         },
@@ -234,12 +375,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WordSeek is a fun and competitive Wordle-style game for Telegram. Play solo or challenge friends in groups, track your scores on leaderboards, and enjoy a customizable gameplay experience. Perfect for quick challenges or extended group fun!",
+            "homepage": "https://t.me/WordSeekBot",
             "id": 846999709,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-06T03:03:54Z",
+            "open_issues": 1,
             "owner": "binamralamsal",
             "repo": "WordSeek",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "drizzle-orm",
+              "grammy",
+              "hacktoberfest",
+              "telegram-bot",
+              "wordle-game"
+            ]
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         },
@@ -250,12 +402,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 685767456,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-01-09T18:30:55Z",
+            "open_issues": 0,
             "owner": "kolay-v",
             "repo": "chessbot-reborn",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         },
@@ -266,12 +423,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Telegram bot to set reminder to a message in a group.",
+            "homepage": null,
             "id": 436721250,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2024-12-21T16:10:55Z",
+            "open_issues": 0,
             "owner": "darvesh",
             "repo": "remindmebot",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "grammyjs",
+              "reminder",
+              "telegram-bot"
+            ]
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         },
@@ -282,12 +448,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple quiz bot with Web App",
+            "homepage": null,
             "id": 488251868,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-05-07T07:14:33Z",
+            "open_issues": 0,
             "owner": "ShinkarenkoMaxim",
             "repo": "simple-quiz",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         },
@@ -298,12 +469,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple time-aware report bot for Telegram.",
+            "homepage": "https://t.me/ryportbot",
             "id": 518584049,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-10-08T14:12:25Z",
+            "open_issues": 0,
             "owner": "dcdunkan",
             "repo": "ryportbot",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "deno",
+              "grammy",
+              "group",
+              "report",
+              "telegram-bot"
+            ]
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         },
@@ -314,12 +496,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Telegram bot to send you messages when events happen on GitHub.",
+            "homepage": null,
             "id": 402202222,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2021-10-20T11:25:01Z",
+            "open_issues": 0,
             "owner": "vrumger",
             "repo": "GibHugBot",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         },
@@ -330,12 +517,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 108768566,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-06T22:33:41Z",
+            "open_issues": 0,
             "owner": "SpamWatch",
             "repo": "SpamWatchBot",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "spamwatch",
+              "telegram",
+              "telegram-bot"
+            ]
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         },
@@ -346,12 +542,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🤖 | AI bot",
+            "homepage": "https://t.me/openaiuz_robot",
             "id": 597245840,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-03-10T19:23:35Z",
+            "open_issues": 0,
             "owner": "SaDi-BRo",
             "repo": "openai-bot",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "denoland",
+              "grammyjs",
+              "openai",
+              "telegram-bot"
+            ]
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         },
@@ -362,12 +568,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A lightweight RSS bot powered by NodeJS™ with telegram group topic support",
+            "homepage": "https://burhanverse.eu.org/blog/rssify",
             "id": 893022932,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-22T03:06:36Z",
+            "open_issues": 10,
             "owner": "Burhanverse",
             "repo": "rssify",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "nodejs",
+              "rss",
+              "rss-bot",
+              "rss-feed",
+              "rss-telegram",
+              "telegram-bot"
+            ]
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         },
@@ -378,12 +596,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A bot for browsing the grammY documentation website.",
+            "homepage": "https://t.me/grammYdocsbot",
             "id": 435792484,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-12-30T01:15:12Z",
+            "open_issues": 4,
             "owner": "grammyjs",
             "repo": "docs-bot",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         },
@@ -394,12 +617,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A telegram bot to create custom tags in groups",
+            "homepage": null,
             "id": 538940142,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-03-12T20:31:57Z",
+            "open_issues": 0,
             "owner": "gab-palmeri",
             "repo": "TagBot",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         },
@@ -410,12 +638,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UniHook - Bot that simply integrates webhooks.",
+            "homepage": null,
             "id": 574224296,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-06-01T04:27:42Z",
+            "open_issues": 0,
             "owner": "kyee-rs",
             "repo": "unihook",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         },
@@ -426,12 +659,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Telegram bot that fetches the currently playing song from Last.fm and posts details about the song to a specified channel.",
+            "homepage": null,
             "id": 826188250,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-21T02:42:36Z",
+            "open_issues": 8,
             "owner": "Burhanverse",
             "repo": "Tunified",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "lastfm",
+              "lastfm-now-playing",
+              "music",
+              "music-bot-telegram",
+              "nodejs",
+              "now-playing",
+              "spotify-now-playing",
+              "telegram-bot"
+            ]
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         },
@@ -442,12 +689,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 438477249,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-06-27T08:54:58Z",
+            "open_issues": 0,
             "owner": "KnorpelSenf",
             "repo": "cattpbot",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         },
@@ -458,12 +710,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://t.me/WhisperedBot",
             "id": 234989680,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2023-07-18T20:39:56Z",
+            "open_issues": 1,
             "owner": "vrumger",
             "repo": "WhisperedBot",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         },
@@ -474,12 +731,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A combination Telegram Bot plus Server for GameJay web-based games.",
+            "homepage": "https://t.me/gamejaybot",
             "id": 487109793,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2024-12-22T17:24:07Z",
+            "open_issues": 9,
             "owner": "gabeklavans",
             "repo": "gamejay-bot",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "games",
+              "telegram-bot",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         },
@@ -490,12 +756,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A static DNS text/file generator Telegram bot.",
+            "homepage": "https://t.me/etchosts_bot",
             "id": 432647101,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-04-18T09:44:24Z",
+            "open_issues": 0,
             "owner": "Yonle",
             "repo": "etchosts",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "dns",
+              "generator",
+              "grammy",
+              "grammyjs",
+              "hosts",
+              "javascript",
+              "nodejs",
+              "telegrambot"
+            ]
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         },
@@ -506,12 +786,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A multiplayer Telegram group game where players compete to solve anagrams in real-time",
+            "homepage": "https://t.me/+-fuR_NoIRrVjZTFk",
             "id": 1023151003,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-09-12T10:08:01Z",
+            "open_issues": 0,
             "owner": "Taofeekabdulazeez",
             "repo": "word-ninjas",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "anagram",
+              "bot",
+              "game",
+              "grammy",
+              "scrabble",
+              "telegram",
+              "words"
+            ]
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         },
@@ -522,12 +815,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Telegram Bot to search which platform (free or flatrate) hosts a movie all around the world",
+            "homepage": "https://doveguardarlo.it",
             "id": 395409147,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-04-18T21:54:15Z",
+            "open_issues": 0,
             "owner": "Emidio21",
             "repo": "FilmChecker-TGBot",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         },
@@ -538,12 +836,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Telegram group bot for weekly weight goals, photo check-ins, charts, reminders, and 53 achievements in 9 languages.",
+            "homepage": "https://t.me/my_weight_goal_bot",
             "id": 1296990152,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-22T04:55:05Z",
+            "open_issues": 9,
             "owner": "IgorShadurin",
             "repo": "weight-telegram-bot",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "gamification",
+              "sqlite",
+              "telegram-bot",
+              "typescript",
+              "weight-tracker"
+            ]
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         },
@@ -554,12 +863,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://t.me/peerUserbot",
             "id": 1311775353,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T06:13:25Z",
+            "open_issues": 0,
             "owner": "DeltaUniverse",
             "repo": "peerUser",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         }
@@ -576,12 +890,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Telegram bot template based on grammY",
+            "homepage": null,
             "id": 440302068,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-11-26T19:42:14Z",
+            "open_issues": 15,
             "owner": "bot-base",
             "repo": "telegram-bot-template",
-            "stars": 443
+            "stars": 443,
+            "topics": [
+              "bot",
+              "bun",
+              "docker",
+              "docker-compose",
+              "grammy",
+              "grammyjs",
+              "hono",
+              "honojs",
+              "prisma",
+              "starter-template",
+              "telegram",
+              "telegram-api",
+              "telegram-bot",
+              "telegram-bot-api",
+              "telegram-bot-template",
+              "template",
+              "typescript",
+              "vercel"
+            ]
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         },
@@ -592,12 +930,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Telegram bot starter based on grammY",
+            "homepage": "https://templates.borodutch.com",
             "id": 181808319,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-04-26T16:09:07Z",
+            "open_issues": 4,
             "owner": "Borodutch",
             "repo": "telegram-bot-starter",
-            "stars": 240
+            "stars": 240,
+            "topics": [
+              "mongodb",
+              "telegram",
+              "telegram-bot"
+            ]
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         },
@@ -608,12 +955,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 460886160,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-05-16T21:25:39Z",
+            "open_issues": 1,
             "owner": "PavloPoliakov",
             "repo": "grammy-with-tests",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         },
@@ -624,12 +976,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Telegram WebApp starter bundle with vanilla setup",
+            "homepage": null,
             "id": 489490140,
             "language": "HTML",
+            "license": null,
             "last_commit": "2022-05-06T20:49:47Z",
+            "open_issues": 0,
             "owner": "ShinkarenkoMaxim",
             "repo": "webapp-vanilla",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         },
@@ -640,12 +997,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🤖 @grammyjs template for @Vercel",
+            "homepage": "https://grammy.dev",
             "id": 627370387,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-05-05T00:52:31Z",
+            "open_issues": 0,
             "owner": "PonomareVlad",
             "repo": "grammYVercel",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "edge",
+              "edge-runtime",
+              "grammy",
+              "grammyjs",
+              "javascript",
+              "node",
+              "node-js",
+              "serverless",
+              "template",
+              "vercel",
+              "vercel-edge",
+              "vercel-edge-functions",
+              "vercel-serverless",
+              "vercel-serverless-functions"
+            ]
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         },
@@ -656,12 +1033,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A template to use for deploying a #grammY bot on #deta",
+            "homepage": "https://t.me/GrammyOnDetaBot",
             "id": 405600531,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-08-09T10:10:03Z",
+            "open_issues": 0,
             "owner": "waptik",
             "repo": "grammy-on-deta-template",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "deta",
+              "grammy",
+              "grammyjs",
+              "telegram",
+              "telegram-bot"
+            ]
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         },
@@ -672,12 +1060,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Template repository for creating a clone-able bot on telegram using grammY telegram bot library.",
+            "homepage": null,
             "id": 575713320,
             "language": "TypeScript",
+            "license": "LGPL-3.0",
             "last_commit": "2022-12-11T11:07:21Z",
+            "open_issues": 0,
             "owner": "xditya",
             "repo": "GrammyCloneableBot",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "clone",
+              "clonebot",
+              "grammy",
+              "telegram"
+            ]
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         }
@@ -694,12 +1092,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Date and time picker and Inline calendar for Node.js telegram bots",
+            "homepage": null,
             "id": 580343729,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-03-26T12:53:47Z",
+            "open_issues": 1,
             "owner": "VDS13",
             "repo": "telegram-inline-calendar",
-            "stars": 110
+            "stars": 110,
+            "topics": [
+              "calendar",
+              "grammy",
+              "inline-keyboard",
+              "node-telegram-bot-api",
+              "telebot",
+              "telegraf",
+              "telegram",
+              "telegram-bot",
+              "time",
+              "time-selector"
+            ]
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         },
@@ -710,12 +1124,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Grammy plugin for TOP.TL — npm install @toptl/grammy",
+            "homepage": null,
             "id": 1208897457,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-21T23:03:02Z",
+            "open_issues": 0,
             "owner": "top-tl",
             "repo": "grammy",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "bot",
+              "grammy",
+              "plugin",
+              "telegram",
+              "toptl"
+            ]
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         }
@@ -724,15 +1149,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:05:26.186Z",
+    "last_updated": "2026-08-29T04:50:33.405Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of community projects leveraging the grammY ecosystem.",
+      "homepage": null,
       "id": 399372284,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-07-27T17:53:09Z",
+      "open_issues": 4,
       "owner": "grammyjs",
       "repo": "awesome-grammY",
-      "stars": 278
+      "stars": 278,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "hacktoberfest"
+      ]
     },
     "original_repository_sha": "9c26a6fb3eb05cb3310750b733acc5ef5fe6af2c",
     "enhanced_repository": "enhansome/enhansome-grammY",
