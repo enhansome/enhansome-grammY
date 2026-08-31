@@ -66,7 +66,7 @@
             "open_issues": 11,
             "owner": "tg-watchdog",
             "repo": "tg-watchdog",
-            "stars": 144,
+            "stars": 145,
             "topics": [
               "bot",
               "telegram",
@@ -380,7 +380,7 @@
             "id": 846999709,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-06-06T03:03:54Z",
+            "last_commit": "2026-08-30T16:07:40Z",
             "open_issues": 1,
             "owner": "binamralamsal",
             "repo": "WordSeek",
@@ -868,7 +868,7 @@
             "id": 1311775353,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-28T06:13:25Z",
+            "last_commit": "2026-08-30T11:44:06Z",
             "open_issues": 0,
             "owner": "DeltaUniverse",
             "repo": "peerUser",
@@ -1149,7 +1149,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T06:58:33.788Z",
+    "last_updated": "2026-08-31T07:13:34.906Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of community projects leveraging the grammY ecosystem.",
