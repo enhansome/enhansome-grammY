@@ -841,8 +841,8 @@
             "id": 1296990152,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T04:54:45Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-02T18:04:03Z",
+            "open_issues": 10,
             "owner": "IgorShadurin",
             "repo": "weight-telegram-bot",
             "stars": 1,
@@ -1149,7 +1149,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T06:05:54.248Z",
+    "last_updated": "2026-09-03T06:03:37.604Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of community projects leveraging the grammY ecosystem.",
