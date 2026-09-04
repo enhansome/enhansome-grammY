@@ -2,7 +2,7 @@
 
 # Awesome grammY with stars
 
-This is a curated list of projects that are using grammY. Anyone is welcome to to add their projects following the [Contribution Guildlines](https://github.com/grammyjs/awesome-grammY/blob/main/CONTRIBUTING.md) ⭐ 278 | 🐛 5 | 📅 2026-07-27.
+This is a curated list of projects that are using grammY. Anyone is welcome to to add their projects following the [Contribution Guildlines](https://github.com/grammyjs/awesome-grammY/blob/main/CONTRIBUTING.md) ⭐ 278 | 🐛 6 | 📅 2026-07-27.
 
 ## Contents
 
@@ -13,9 +13,9 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 
 ## Bots
 
-* [backmeupplz/voicy](https://github.com/backmeupplz/voicy/) ⭐ 909 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-08 - A bot that transcribes audio messages to text.
+* [backmeupplz/voicy](https://github.com/backmeupplz/voicy/) ⭐ 910 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-08 - A bot that transcribes audio messages to text.
 * [callsmusic/remix](https://github.com/callsmusic/remix) ⚠️ Archived - Stream YouTube videos, radios and audio files in Telegram calls.
-* [Astrian/tg-watchdog](https://github.com/Astrian/tg-watchdog) ⭐ 146 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-27 - The brand new anti-abuse solution for group chats. [ᴜsᴇ](https://t.me/WatchdogVerifyBot?startgroup=start\&admin=can_invite_users)
+* [Astrian/tg-watchdog](https://github.com/Astrian/tg-watchdog) ⭐ 146 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-03 - The brand new anti-abuse solution for group chats. [ᴜsᴇ](https://t.me/WatchdogVerifyBot?startgroup=start\&admin=can_invite_users)
 * [Borodutch/VideoDownloadBot](https://github.com/Borodutch/VideoDownloadBot) ⭐ 141 | 🐛 6 | 🌐 TypeScript | 📅 2024-07-24 - Download videos from the Internet to Telegram.
 * [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot) ⭐ 98 | 🐛 4 | 🌐 TypeScript | 📅 2026-06-12 - Play music in group voice chat. Supports JioSaavn, YouTube and files.
 * [bot-base/scan-tool-bot](https://github.com/bot-base/scan-tool-bot) ⭐ 46 | 🐛 2 | 🌐 TypeScript | 📅 2024-06-25 - Scan QR codes with your camera. [ᴜsᴇ](https://t.me/ScanToolBot)
@@ -73,4 +73,4 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
