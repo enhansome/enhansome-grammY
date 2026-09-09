@@ -15,8 +15,8 @@
             "id": 75456200,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-08T08:44:53Z",
-            "open_issues": 0,
+            "last_commit": "2026-09-09T01:08:22Z",
+            "open_issues": 1,
             "owner": "backmeupplz",
             "repo": "voicy",
             "stars": 911,
@@ -62,7 +62,7 @@
             "id": 451886942,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T20:56:49Z",
+            "last_commit": "2026-09-09T04:55:39Z",
             "open_issues": 11,
             "owner": "tg-watchdog",
             "repo": "tg-watchdog",
@@ -1149,7 +1149,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T06:09:39.719Z",
+    "last_updated": "2026-09-09T06:15:31.719Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of community projects leveraging the grammY ecosystem.",
