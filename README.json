@@ -380,8 +380,8 @@
             "id": 846999709,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-30T16:07:40Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-10T08:26:08Z",
+            "open_issues": 2,
             "owner": "binamralamsal",
             "repo": "WordSeek",
             "stars": 19,
@@ -841,8 +841,8 @@
             "id": 1296990152,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T04:54:16Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-11T04:48:41Z",
+            "open_issues": 12,
             "owner": "IgorShadurin",
             "repo": "weight-telegram-bot",
             "stars": 1,
@@ -1149,7 +1149,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T06:14:40.327Z",
+    "last_updated": "2026-09-11T06:18:06.355Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of community projects leveraging the grammY ecosystem.",
