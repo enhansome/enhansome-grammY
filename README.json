@@ -1149,7 +1149,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T06:38:09.486Z",
+    "last_updated": "2026-09-15T06:21:27.820Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of community projects leveraging the grammY ecosystem.",
@@ -1161,7 +1161,7 @@
       "open_issues": 6,
       "owner": "grammyjs",
       "repo": "awesome-grammY",
-      "stars": 279,
+      "stars": 280,
       "topics": [
         "awesome",
         "awesome-list",
