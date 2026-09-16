@@ -2,7 +2,7 @@
 
 # Awesome grammY with stars
 
-This is a curated list of projects that are using grammY. Anyone is welcome to to add their projects following the [Contribution Guildlines](https://github.com/grammyjs/awesome-grammY/blob/main/CONTRIBUTING.md) ⭐ 280 | 🐛 6 | 📅 2026-07-27.
+This is a curated list of projects that are using grammY. Anyone is welcome to to add their projects following the [Contribution Guildlines](https://github.com/grammyjs/awesome-grammY/blob/main/CONTRIBUTING.md) ⭐ 281 | 🐛 6 | 📅 2026-07-27.
 
 ## Contents
 
@@ -13,7 +13,7 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 
 ## Bots
 
-* [backmeupplz/voicy](https://github.com/backmeupplz/voicy/) ⭐ 911 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-09 - A bot that transcribes audio messages to text.
+* [backmeupplz/voicy](https://github.com/backmeupplz/voicy/) ⭐ 912 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-09 - A bot that transcribes audio messages to text.
 * [callsmusic/remix](https://github.com/callsmusic/remix) ⚠️ Archived - Stream YouTube videos, radios and audio files in Telegram calls.
 * [Astrian/tg-watchdog](https://github.com/Astrian/tg-watchdog) ⭐ 146 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-09 - The brand new anti-abuse solution for group chats. [ᴜsᴇ](https://t.me/WatchdogVerifyBot?startgroup=start\&admin=can_invite_users)
 * [Borodutch/VideoDownloadBot](https://github.com/Borodutch/VideoDownloadBot) ⭐ 141 | 🐛 6 | 🌐 TypeScript | 📅 2024-07-24 - Download videos from the Internet to Telegram.
@@ -38,10 +38,10 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 * [Burhanverse/rssify](https://github.com/Burhanverse/rssify) ⚠️ Archived - A feature-rich RSS bot with support for forum topics.
 * [grammyjs/docs-bot](https://github.com/grammyjs/docs-bot) ⭐ 10 | 🐛 4 | 🌐 TypeScript | 📅 2024-12-30 - Search and share grammY docs right inside Telegram. [ᴜsᴇ](https://t.me/grammydocsbot)
 * [gab-palmeri/TagBot](https://github.com/gab-palmeri/TagBot) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-12 - Create tags to mention multiple group members at once. [ᴜsᴇ](https://t.me/grouptags_bot)
+* [vrumger/WhisperedBot](https://github.com/vrumger/WhisperedBot) ⭐ 9 | 🐛 1 | 🌐 JavaScript | 📅 2023-07-18 - Send whispers to people in groups so no one else can read them. [ᴜsᴇ](https://t.me/WhisperedBot)
 * [voxelin/unihook](https://github.com/voxelin/unihook) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2025-06-01 - This bot makes a webhook listener and parses its payload by user-given template. [ᴜsᴇ](https://t.me/uniwebhookbot)
 * [Burhanverse/tunified](https://github.com/Burhanverse/Tunified) ⚠️ Archived - A Telegram bot to fetch the currently playing song from Last.fm and shares it on Telegram.
 * [KnorpelSenf/cattpbot](https://github.com/KnorpelSenf/cattpbot) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-27 - Send cat pictures from <https://http.cat> instead of HTTP status codes. [ᴜsᴇ](https://t.me/cattpbot)
-* [vrumger/WhisperedBot](https://github.com/vrumger/WhisperedBot) ⭐ 8 | 🐛 1 | 🌐 JavaScript | 📅 2023-07-18 - Send whispers to people in groups so no one else can read them. [ᴜsᴇ](https://t.me/WhisperedBot)
 * [gabeklavans/gamejay-bot](https://github.com/gabeklavans/gamejay-bot) ⭐ 7 | 🐛 9 | 🌐 TypeScript | 📅 2024-12-22 - Serves various multiplayer mini-games, inspired by GamePigeon for iOS. [ᴜsᴇ](https://t.me/gamejaybot)
 * [Yonle/etchosts](https://github.com/Yonle/etchosts) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2022-04-18 - A bot that generates DNS files for domains. [ᴜsᴇ](https://t.me/etchosts_bot)
 * [Taofeekabdulazeez/word-ninjas](https://github.com/Taofeekabdulazeez/word-ninjas) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-12 - A game where multiple players compete to solve anagrams in real-time.
@@ -73,4 +73,4 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._

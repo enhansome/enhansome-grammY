@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "backmeupplz",
             "repo": "voicy",
-            "stars": 911,
+            "stars": 912,
             "topics": [
               "bot",
               "speech-to-text",
@@ -633,6 +633,27 @@
         },
         {
           "node_type": "item",
+          "title": "vrumger/WhisperedBot",
+          "description": "Send whispers to people in groups so no one else can read them. ᴜsᴇ",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": "https://t.me/WhisperedBot",
+            "id": 234989680,
+            "language": "JavaScript",
+            "license": "AGPL-3.0",
+            "last_commit": "2023-07-18T20:39:56Z",
+            "open_issues": 1,
+            "owner": "vrumger",
+            "repo": "WhisperedBot",
+            "stars": 9,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T13:05:26.186Z"
+        },
+        {
+          "node_type": "item",
           "title": "voxelin/unihook",
           "description": "This bot makes a webhook listener and parses its payload by user-given template. ᴜsᴇ",
           "children": [],
@@ -698,27 +719,6 @@
             "open_issues": 0,
             "owner": "KnorpelSenf",
             "repo": "cattpbot",
-            "stars": 8,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T13:05:26.186Z"
-        },
-        {
-          "node_type": "item",
-          "title": "vrumger/WhisperedBot",
-          "description": "Send whispers to people in groups so no one else can read them. ᴜsᴇ",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": "https://t.me/WhisperedBot",
-            "id": 234989680,
-            "language": "JavaScript",
-            "license": "AGPL-3.0",
-            "last_commit": "2023-07-18T20:39:56Z",
-            "open_issues": 1,
-            "owner": "vrumger",
-            "repo": "WhisperedBot",
             "stars": 8,
             "topics": []
           },
@@ -1149,7 +1149,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T06:21:27.820Z",
+    "last_updated": "2026-09-16T06:19:22.741Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of community projects leveraging the grammY ecosystem.",
@@ -1161,7 +1161,7 @@
       "open_issues": 6,
       "owner": "grammyjs",
       "repo": "awesome-grammY",
-      "stars": 280,
+      "stars": 281,
       "topics": [
         "awesome",
         "awesome-list",
