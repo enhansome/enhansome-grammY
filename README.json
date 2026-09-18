@@ -1101,7 +1101,7 @@
             "open_issues": 1,
             "owner": "VDS13",
             "repo": "telegram-inline-calendar",
-            "stars": 110,
+            "stars": 111,
             "topics": [
               "calendar",
               "grammy",
@@ -1149,7 +1149,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T06:20:40.234Z",
+    "last_updated": "2026-09-18T06:11:52.684Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of community projects leveraging the grammY ecosystem.",
