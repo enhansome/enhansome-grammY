@@ -20,7 +20,6 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 * [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot) ⭐ 98 | 🐛 4 | 🌐 TypeScript | 📅 2026-06-12 - Play music in group voice chat. Supports JioSaavn, YouTube and files.
 * [bot-base/scan-tool-bot](https://github.com/bot-base/scan-tool-bot) ⭐ 46 | 🐛 2 | 🌐 TypeScript | 📅 2024-06-25 - Scan QR codes with your camera. [ᴜsᴇ](https://t.me/ScanToolBot)
 * [ArnabXD/AnimeDB-tgbot](https://github.com/ArnabXD/AnimeDB-tgbot) ⭐ 44 | 🐛 1 | 🌐 TypeScript | 📅 2022-09-07 - Search and retrieve anime and manga.
-* [voxelin/groombot](https://github.com/voxelin/groom) ⚠️ Archived - Groombot is a temporary email service that allows you to generate unlimited email addresses with your own domain on your phone. [ᴜsᴇ](https://t.me/groomtempbot)
 * [dcdunkan/show-json-bot](https://github.com/dcdunkan/show-json-bot) ⭐ 33 | 🐛 0 | 🌐 TypeScript | 📅 2024-11-15 - See the JSON data behind Telegram messages. [ᴜsᴇ](https://t.me/jsoonbot)
 * [ThemerBot/ThemerBot](https://github.com/ThemerBot/themerbot) ⭐ 30 | 🐛 1 | 🌐 TypeScript | 📅 2024-06-21 - Create themes for most official Telegram apps based on a picture. [ᴜsᴇ](https://t.me/themerbot)
 * [dcdunkan/syntax-highlighter-bot](https://github.com/dcdunkan/syntax-highlighter-bot) ⭐ 30 | 🐛 1 | 🌐 TypeScript | 📅 2023-09-26 - Syntax highlighting for code blocks in messages. [ᴜsᴇ](https://t.me/syntaxybot)
@@ -50,11 +49,12 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 * [DeltaUniverse/peerUser](https://github.com/DeltaUniverse/peerUser) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-30 - Auto-Delete Incoming Private Messages. [ᴜsᴇ](https://t.me/peerUserbot)
 * [@ChannelHashBot](https://t.me/ChannelHashBot) - Keep track of hashtags that are sent to your group by forwarding them to a channel.
 * [@yestoscambot](https://t.me/yestoscambot) - A bot that bans as many spammers as it can!
+* [voxelin/groombot](https://github.com/voxelin/groom) - Groombot is a temporary email service that allows you to generate unlimited email addresses with your own domain on your phone. [ᴜsᴇ](https://t.me/groomtempbot)
 * [@OmniDubBot](https://t.me/OmniDubBot) - A bot that dubs your voice notes into 10+ languages.
 
 ## Templates
 
-* [bot-base/telegram-bot-template](https://github.com/bot-base/telegram-bot-template) ⭐ 445 | 🐛 15 | 🌐 TypeScript | 📅 2025-11-26 - A starter bot template with a scalable structure and ready-to-use Docker setup.
+* [bot-base/telegram-bot-template](https://github.com/bot-base/telegram-bot-template) ⭐ 443 | 🐛 15 | 🌐 TypeScript | 📅 2025-11-26 - A starter bot template with a scalable structure and ready-to-use Docker setup.
 * [Borodutch/telegram-bot-starter](https://github.com/Borodutch/telegram-bot-starter) ⭐ 240 | 🐛 4 | 🌐 TypeScript | 📅 2023-04-26 - Telegram bot starter based on grammY.
 * [PavelPolyakov/grammy-with-tests](https://github.com/PavelPolyakov/grammy-with-tests) ⭐ 29 | 🐛 1 | 🌐 TypeScript | 📅 2025-05-16 - An example bot which is covered with tests.
 * [ShinkarenkoMaxim/webapp-vanilla](https://github.com/ShinkarenkoMaxim/webapp-vanilla) ⭐ 20 | 🐛 0 | 🌐 HTML | 📅 2022-05-06 - Telegram Web App starter template.
@@ -73,4 +73,4 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._

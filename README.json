@@ -188,39 +188,6 @@
         },
         {
           "node_type": "item",
-          "title": "voxelin/groombot",
-          "description": "Groombot is a temporary email service that allows you to generate unlimited email addresses with your own domain on your phone. ᴜsᴇ",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "YmailBot - Temporary Email Service in your smartphone. 📬",
-            "homepage": "https://t.me/ymailerbot",
-            "id": 606465701,
-            "language": "TypeScript",
-            "license": "GPL-3.0",
-            "last_commit": "2023-07-23T12:40:48Z",
-            "open_issues": 0,
-            "owner": "kyee-rs",
-            "repo": "Ymail",
-            "stars": 40,
-            "topics": [
-              "bot",
-              "deno",
-              "docker",
-              "docker-compose",
-              "email",
-              "mailgun",
-              "telegram",
-              "tempmail",
-              "tg",
-              "tgbot",
-              "typescript"
-            ]
-          },
-          "first_seen": "2026-08-28T13:05:26.186Z"
-        },
-        {
-          "node_type": "item",
           "title": "dcdunkan/show-json-bot",
           "description": "See the JSON data behind Telegram messages. ᴜsᴇ",
           "children": [],
@@ -899,7 +866,7 @@
             "open_issues": 15,
             "owner": "bot-base",
             "repo": "telegram-bot-template",
-            "stars": 445,
+            "stars": 443,
             "topics": [
               "bot",
               "bun",
@@ -1149,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T06:34:49.647Z",
+    "last_updated": "2026-09-21T06:41:38.793Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of community projects leveraging the grammY ecosystem.",
