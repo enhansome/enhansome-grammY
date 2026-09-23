@@ -2,7 +2,7 @@
 
 # Awesome grammY with stars
 
-This is a curated list of projects that are using grammY. Anyone is welcome to to add their projects following the [Contribution Guildlines](https://github.com/grammyjs/awesome-grammY/blob/main/CONTRIBUTING.md) ⭐ 281 | 🐛 6 | 📅 2026-07-27.
+This is a curated list of projects that are using grammY. Anyone is welcome to to add their projects following the [Contribution Guildlines](https://github.com/grammyjs/awesome-grammY/blob/main/CONTRIBUTING.md) ⭐ 281 | 🐛 7 | 📅 2026-07-27.
 
 ## Contents
 
@@ -41,7 +41,7 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 * [voxelin/unihook](https://github.com/voxelin/unihook) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2025-06-01 - This bot makes a webhook listener and parses its payload by user-given template. [ᴜsᴇ](https://t.me/uniwebhookbot)
 * [Burhanverse/tunified](https://github.com/Burhanverse/Tunified) ⚠️ Archived - A Telegram bot to fetch the currently playing song from Last.fm and shares it on Telegram.
 * [KnorpelSenf/cattpbot](https://github.com/KnorpelSenf/cattpbot) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-27 - Send cat pictures from <https://http.cat> instead of HTTP status codes. [ᴜsᴇ](https://t.me/cattpbot)
-* [gabeklavans/gamejay-bot](https://github.com/gabeklavans/gamejay-bot) ⭐ 7 | 🐛 9 | 🌐 TypeScript | 📅 2024-12-22 - Serves various multiplayer mini-games, inspired by GamePigeon for iOS. [ᴜsᴇ](https://t.me/gamejaybot)
+* [gabeklavans/gamejay-bot](https://github.com/gabeklavans/gamejay-bot) ⚠️ Archived - Serves various multiplayer mini-games, inspired by GamePigeon for iOS. [ᴜsᴇ](https://t.me/gamejaybot)
 * [Yonle/etchosts](https://github.com/Yonle/etchosts) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2022-04-18 - A bot that generates DNS files for domains. [ᴜsᴇ](https://t.me/etchosts_bot)
 * [Taofeekabdulazeez/word-ninjas](https://github.com/Taofeekabdulazeez/word-ninjas) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-12 - A game where multiple players compete to solve anagrams in real-time.
 * [Emidio21/FilmChecker-TGBot](https://github.com/Emidio21/FilmChecker-TGBot) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2023-04-18 - Search which platform hosts a movie all around the world.
@@ -68,9 +68,9 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 
 ## Plugins
 
-* [VDS13/telegram-inline-calendar](https://github.com/VDS13/telegram-inline-calendar) ⭐ 111 | 🐛 1 | 🌐 JavaScript | 📅 2025-03-26 - Date picker and inline calendar for your bots.
+* [VDS13/telegram-inline-calendar](https://github.com/VDS13/telegram-inline-calendar) ⭐ 112 | 🐛 1 | 🌐 JavaScript | 📅 2025-03-26 - Date picker and inline calendar for your bots.
 * [@toptl/grammy](https://github.com/top-tl/grammy) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-21 - Plugin for TOP.TL, the Telegram directory. Auto-posts bot stats and enables vote-gating.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._

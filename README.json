@@ -697,13 +697,13 @@
           "description": "Serves various multiplayer mini-games, inspired by GamePigeon for iOS. ᴜsᴇ",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "A combination Telegram Bot plus Server for GameJay web-based games.",
             "homepage": "https://t.me/gamejaybot",
             "id": 487109793,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2024-12-22T17:24:07Z",
+            "last_commit": "2026-09-22T21:41:20Z",
             "open_issues": 9,
             "owner": "gabeklavans",
             "repo": "gamejay-bot",
@@ -1068,7 +1068,7 @@
             "open_issues": 1,
             "owner": "VDS13",
             "repo": "telegram-inline-calendar",
-            "stars": 111,
+            "stars": 112,
             "topics": [
               "calendar",
               "grammy",
@@ -1092,7 +1092,7 @@
           "repo_info": {
             "archived": false,
             "description": "Grammy plugin for TOP.TL — npm install @toptl/grammy",
-            "homepage": null,
+            "homepage": "https://toptl.net",
             "id": 1208897457,
             "language": "TypeScript",
             "license": "MIT",
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T06:29:46.741Z",
+    "last_updated": "2026-09-23T06:13:56.460Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of community projects leveraging the grammY ecosystem.",
@@ -1125,7 +1125,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-07-27T17:53:09Z",
-      "open_issues": 6,
+      "open_issues": 7,
       "owner": "grammyjs",
       "repo": "awesome-grammY",
       "stars": 281,
