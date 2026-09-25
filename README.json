@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "backmeupplz",
             "repo": "voicy",
-            "stars": 912,
+            "stars": 913,
             "topics": [
               "bot",
               "speech-to-text",
@@ -347,7 +347,7 @@
             "id": 846999709,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-20T05:20:03Z",
+            "last_commit": "2026-09-24T11:59:00Z",
             "open_issues": 2,
             "owner": "binamralamsal",
             "repo": "WordSeek",
@@ -906,7 +906,7 @@
             "open_issues": 4,
             "owner": "Borodutch",
             "repo": "telegram-bot-starter",
-            "stars": 240,
+            "stars": 241,
             "topics": [
               "mongodb",
               "telegram",
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T06:23:46.905Z",
+    "last_updated": "2026-09-25T06:18:45.954Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of community projects leveraging the grammY ecosystem.",
