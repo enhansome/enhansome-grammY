@@ -2,7 +2,7 @@
 
 # Awesome grammY with stars
 
-This is a curated list of projects that are using grammY. Anyone is welcome to to add their projects following the [Contribution Guildlines](https://github.com/grammyjs/awesome-grammY/blob/main/CONTRIBUTING.md) ⭐ 281 | 🐛 7 | 📅 2026-07-27.
+This is a curated list of projects that are using grammY. Anyone is welcome to to add their projects following the [Contribution Guildlines](https://github.com/grammyjs/awesome-grammY/blob/main/CONTRIBUTING.md) ⭐ 282 | 🐛 7 | 📅 2026-07-27.
 
 ## Contents
 
@@ -15,7 +15,7 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 
 * [backmeupplz/voicy](https://github.com/backmeupplz/voicy/) ⭐ 913 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-09 - A bot that transcribes audio messages to text.
 * [callsmusic/remix](https://github.com/callsmusic/remix) ⚠️ Archived - Stream YouTube videos, radios and audio files in Telegram calls.
-* [Astrian/tg-watchdog](https://github.com/Astrian/tg-watchdog) ⭐ 146 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-23 - The brand new anti-abuse solution for group chats. [ᴜsᴇ](https://t.me/WatchdogVerifyBot?startgroup=start\&admin=can_invite_users)
+* [Astrian/tg-watchdog](https://github.com/Astrian/tg-watchdog) ⭐ 146 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-25 - The brand new anti-abuse solution for group chats. [ᴜsᴇ](https://t.me/WatchdogVerifyBot?startgroup=start\&admin=can_invite_users)
 * [Borodutch/VideoDownloadBot](https://github.com/Borodutch/VideoDownloadBot) ⭐ 141 | 🐛 6 | 🌐 TypeScript | 📅 2024-07-24 - Download videos from the Internet to Telegram.
 * [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot) ⭐ 98 | 🐛 4 | 🌐 TypeScript | 📅 2026-06-12 - Play music in group voice chat. Supports JioSaavn, YouTube and files.
 * [bot-base/scan-tool-bot](https://github.com/bot-base/scan-tool-bot) ⭐ 46 | 🐛 2 | 🌐 TypeScript | 📅 2024-06-25 - Scan QR codes with your camera. [ᴜsᴇ](https://t.me/ScanToolBot)
@@ -45,7 +45,7 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 * [Yonle/etchosts](https://github.com/Yonle/etchosts) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2022-04-18 - A bot that generates DNS files for domains. [ᴜsᴇ](https://t.me/etchosts_bot)
 * [Taofeekabdulazeez/word-ninjas](https://github.com/Taofeekabdulazeez/word-ninjas) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-12 - A game where multiple players compete to solve anagrams in real-time.
 * [Emidio21/FilmChecker-TGBot](https://github.com/Emidio21/FilmChecker-TGBot) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2023-04-18 - Search which platform hosts a movie all around the world.
-* [IgorShadurin/weight-telegram-bot](https://github.com/IgorShadurin/weight-telegram-bot) ⭐ 1 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-12 - Track photo-backed weekly weight goals in groups with charts, reminders, 53 achievements, and nine natural localizations. [ᴜsᴇ](https://t.me/my_weight_goal_bot).
+* [IgorShadurin/weight-telegram-bot](https://github.com/IgorShadurin/weight-telegram-bot) ⭐ 1 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-26 - Track photo-backed weekly weight goals in groups with charts, reminders, 53 achievements, and nine natural localizations. [ᴜsᴇ](https://t.me/my_weight_goal_bot).
 * [DeltaUniverse/peerUser](https://github.com/DeltaUniverse/peerUser) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-30 - Auto-Delete Incoming Private Messages. [ᴜsᴇ](https://t.me/peerUserbot)
 * [@ChannelHashBot](https://t.me/ChannelHashBot) - Keep track of hashtags that are sent to your group by forwarding them to a channel.
 * [@yestoscambot](https://t.me/yestoscambot) - A bot that bans as many spammers as it can!
@@ -54,7 +54,7 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 
 ## Templates
 
-* [bot-base/telegram-bot-template](https://github.com/bot-base/telegram-bot-template) ⭐ 443 | 🐛 15 | 🌐 TypeScript | 📅 2025-11-26 - A starter bot template with a scalable structure and ready-to-use Docker setup.
+* [bot-base/telegram-bot-template](https://github.com/bot-base/telegram-bot-template) ⭐ 444 | 🐛 15 | 🌐 TypeScript | 📅 2025-11-26 - A starter bot template with a scalable structure and ready-to-use Docker setup.
 * [Borodutch/telegram-bot-starter](https://github.com/Borodutch/telegram-bot-starter) ⭐ 241 | 🐛 4 | 🌐 TypeScript | 📅 2023-04-26 - Telegram bot starter based on grammY.
 * [PavelPolyakov/grammy-with-tests](https://github.com/PavelPolyakov/grammy-with-tests) ⭐ 29 | 🐛 1 | 🌐 TypeScript | 📅 2025-05-16 - An example bot which is covered with tests.
 * [ShinkarenkoMaxim/webapp-vanilla](https://github.com/ShinkarenkoMaxim/webapp-vanilla) ⭐ 20 | 🐛 0 | 🌐 HTML | 📅 2022-05-06 - Telegram Web App starter template.
@@ -73,4 +73,4 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._

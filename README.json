@@ -62,7 +62,7 @@
             "id": 451886942,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-23T22:18:05Z",
+            "last_commit": "2026-09-25T23:23:54Z",
             "open_issues": 11,
             "owner": "tg-watchdog",
             "repo": "tg-watchdog",
@@ -808,7 +808,7 @@
             "id": 1296990152,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T04:54:41Z",
+            "last_commit": "2026-09-26T04:54:32Z",
             "open_issues": 12,
             "owner": "IgorShadurin",
             "repo": "weight-telegram-bot",
@@ -866,7 +866,7 @@
             "open_issues": 15,
             "owner": "bot-base",
             "repo": "telegram-bot-template",
-            "stars": 443,
+            "stars": 444,
             "topics": [
               "bot",
               "bun",
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T06:18:45.954Z",
+    "last_updated": "2026-09-26T06:18:20.441Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of community projects leveraging the grammY ecosystem.",
@@ -1128,7 +1128,7 @@
       "open_issues": 7,
       "owner": "grammyjs",
       "repo": "awesome-grammY",
-      "stars": 281,
+      "stars": 282,
       "topics": [
         "awesome",
         "awesome-list",
