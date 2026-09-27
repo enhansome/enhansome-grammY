@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "backmeupplz",
             "repo": "voicy",
-            "stars": 913,
+            "stars": 912,
             "topics": [
               "bot",
               "speech-to-text",
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T06:18:20.441Z",
+    "last_updated": "2026-09-27T06:47:06.178Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of community projects leveraging the grammY ecosystem.",
