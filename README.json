@@ -633,7 +633,7 @@
             "license": null,
             "last_commit": "2025-06-01T04:27:42Z",
             "open_issues": 0,
-            "owner": "kyee-rs",
+            "owner": "domovyi",
             "repo": "unihook",
             "stars": 9,
             "topics": []
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T07:09:40.498Z",
+    "last_updated": "2026-09-30T07:00:26.974Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of community projects leveraging the grammY ecosystem.",
