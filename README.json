@@ -62,11 +62,11 @@
             "id": 451886942,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-25T23:23:54Z",
+            "last_commit": "2026-10-02T02:50:12Z",
             "open_issues": 11,
             "owner": "tg-watchdog",
             "repo": "tg-watchdog",
-            "stars": 146,
+            "stars": 147,
             "topics": [
               "bot",
               "telegram",
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T07:25:25.769Z",
+    "last_updated": "2026-10-02T07:12:32.424Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of community projects leveraging the grammY ecosystem.",
