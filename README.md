@@ -2,7 +2,7 @@
 
 # Awesome grammY with stars
 
-This is a curated list of projects that are using grammY. Anyone is welcome to to add their projects following the [Contribution Guildlines](https://github.com/grammyjs/awesome-grammY/blob/main/CONTRIBUTING.md) ⭐ 282 | 🐛 7 | 📅 2026-07-27.
+This is a curated list of projects that are using grammY. Anyone is welcome to to add their projects following the [Contribution Guildlines](https://github.com/grammyjs/awesome-grammY/blob/main/CONTRIBUTING.md).
 
 ## Contents
 
@@ -29,8 +29,8 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 * [binamralamsal/WordSeek](https://github.com/binamralamsal/WordSeek) ⭐ 19 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-24 - A fun and competitive Wordle-style game that you can play with friends. [ᴜsᴇ](https://t.me/WordSeekBot)
 * [kolay-v/chessbot-reborn](https://github.com/kolay-v/chessbot-reborn) ⭐ 17 | 🐛 0 | 🌐 TypeScript | 📅 2024-01-09 - The inline PvP chess game bot. [ᴜsᴇ](https://t.me/chess101bot)
 * [darvesh/remindmebot](https://github.com/darvesh/remindmebot) ⭐ 16 | 🐛 0 | 🌐 TypeScript | 📅 2024-12-21 - Set reminder to a message in a group. [ᴜsᴇ](https://t.me/thymisebot)
+* [dcdunkan/ryportbot](https://github.com/dcdunkan/ryportbot) ⭐ 15 | 🐛 0 | 🌐 TypeScript | 📅 2024-10-08 - Time-aware bot for reporting members to admins. [ᴜsᴇ](https://t.me/ryportbot)
 * [ShinkarenkoMaxim/simple-quiz](https://github.com/ShinkarenkoMaxim/simple-quiz) ⭐ 14 | 🐛 0 | 🌐 TypeScript | 📅 2022-05-07 - A simple quiz bot as Web App.
-* [dcdunkan/ryportbot](https://github.com/dcdunkan/ryportbot) ⭐ 14 | 🐛 0 | 🌐 TypeScript | 📅 2024-10-08 - Time-aware bot for reporting members to admins. [ᴜsᴇ](https://t.me/ryportbot)
 * [vrumger/GibHugBot](https://github.com/vrumger/GibHugBot) ⭐ 13 | 🐛 0 | 🌐 TypeScript | 📅 2021-10-20 - Get notified about GitHub events right in Telegram. [ᴜsᴇ](https://t.me/GibHugBot)
 * [SpamWatch/SpamWatchBot](https://github.com/SpamWatch/SpamWatchBot) ⚠️ Archived - The official help bot for SpamWatch. [ᴜsᴇ](https://t.me/SpamWatchBot)
 * [SaDi-BRo/openai-bot](https://github.com/SaDi-BRo/openai-bot) ⭐ 13 | 🐛 0 | 🌐 TypeScript | 📅 2023-03-10 - Interact with OpenAI APIs from Telegram.
@@ -54,7 +54,7 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 
 ## Templates
 
-* [bot-base/telegram-bot-template](https://github.com/bot-base/telegram-bot-template) ⭐ 444 | 🐛 15 | 🌐 TypeScript | 📅 2025-11-26 - A starter bot template with a scalable structure and ready-to-use Docker setup.
+* [bot-base/telegram-bot-template](https://github.com/bot-base/telegram-bot-template) ⭐ 445 | 🐛 15 | 🌐 TypeScript | 📅 2025-11-26 - A starter bot template with a scalable structure and ready-to-use Docker setup.
 * [Borodutch/telegram-bot-starter](https://github.com/Borodutch/telegram-bot-starter) ⭐ 241 | 🐛 4 | 🌐 TypeScript | 📅 2023-04-26 - Telegram bot starter based on grammY.
 * [PavelPolyakov/grammy-with-tests](https://github.com/PavelPolyakov/grammy-with-tests) ⭐ 29 | 🐛 1 | 🌐 TypeScript | 📅 2025-05-16 - An example bot which is covered with tests.
 * [ShinkarenkoMaxim/webapp-vanilla](https://github.com/ShinkarenkoMaxim/webapp-vanilla) ⭐ 20 | 🐛 0 | 🌐 HTML | 📅 2022-05-06 - Telegram Web App starter template.
@@ -73,4 +73,4 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

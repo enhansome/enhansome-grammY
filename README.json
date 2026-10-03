@@ -410,6 +410,33 @@
         },
         {
           "node_type": "item",
+          "title": "dcdunkan/ryportbot",
+          "description": "Time-aware bot for reporting members to admins. ᴜsᴇ",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Simple time-aware report bot for Telegram.",
+            "homepage": "https://t.me/ryportbot",
+            "id": 518584049,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2024-10-08T14:12:25Z",
+            "open_issues": 0,
+            "owner": "dcdunkan",
+            "repo": "ryportbot",
+            "stars": 15,
+            "topics": [
+              "deno",
+              "grammy",
+              "group",
+              "report",
+              "telegram-bot"
+            ]
+          },
+          "first_seen": "2026-08-28T13:05:26.186Z"
+        },
+        {
+          "node_type": "item",
           "title": "ShinkarenkoMaxim/simple-quiz",
           "description": "A simple quiz bot as Web App.",
           "children": [],
@@ -426,33 +453,6 @@
             "repo": "simple-quiz",
             "stars": 14,
             "topics": []
-          },
-          "first_seen": "2026-08-28T13:05:26.186Z"
-        },
-        {
-          "node_type": "item",
-          "title": "dcdunkan/ryportbot",
-          "description": "Time-aware bot for reporting members to admins. ᴜsᴇ",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Simple time-aware report bot for Telegram.",
-            "homepage": "https://t.me/ryportbot",
-            "id": 518584049,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2024-10-08T14:12:25Z",
-            "open_issues": 0,
-            "owner": "dcdunkan",
-            "repo": "ryportbot",
-            "stars": 14,
-            "topics": [
-              "deno",
-              "grammy",
-              "group",
-              "report",
-              "telegram-bot"
-            ]
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         },
@@ -866,7 +866,7 @@
             "open_issues": 15,
             "owner": "bot-base",
             "repo": "telegram-bot-template",
-            "stars": 444,
+            "stars": 445,
             "topics": [
               "bot",
               "bun",
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T07:12:32.424Z",
+    "last_updated": "2026-10-03T04:49:10.901Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of community projects leveraging the grammY ecosystem.",
@@ -1128,7 +1128,7 @@
       "open_issues": 7,
       "owner": "grammyjs",
       "repo": "awesome-grammY",
-      "stars": 282,
+      "stars": 283,
       "topics": [
         "awesome",
         "awesome-list",
