@@ -26,7 +26,7 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 * [SpEcHiDe/JsonBot](https://github.com/SpEcHiDe/JsonBot) ⭐ 26 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-23 - A bot that sends the JSON representations of most of the updates of the Bot API.
 * [darvesh/thewatbot](https://github.com/darvesh/thewatbot) ⭐ 23 | 🐛 0 | 🌐 TypeScript | 📅 2025-12-10 - Inline dictionary bot. Supports many languages. [ᴜsᴇ](https://t.me/thewatbot)
 * [KnorpelSenf/link-preview-bot](https://github.com/KnorpelSenf/link-preview-bot) ⭐ 20 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-03 - Generate link previews for all links in messages. [ᴜsᴇ](https://t.me/linkpreviewbot)
-* [binamralamsal/WordSeek](https://github.com/binamralamsal/WordSeek) ⭐ 19 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-24 - A fun and competitive Wordle-style game that you can play with friends. [ᴜsᴇ](https://t.me/WordSeekBot)
+* [binamralamsal/WordSeek](https://github.com/binamralamsal/WordSeek) ⭐ 19 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-03 - A fun and competitive Wordle-style game that you can play with friends. [ᴜsᴇ](https://t.me/WordSeekBot)
 * [kolay-v/chessbot-reborn](https://github.com/kolay-v/chessbot-reborn) ⭐ 17 | 🐛 0 | 🌐 TypeScript | 📅 2024-01-09 - The inline PvP chess game bot. [ᴜsᴇ](https://t.me/chess101bot)
 * [darvesh/remindmebot](https://github.com/darvesh/remindmebot) ⭐ 16 | 🐛 0 | 🌐 TypeScript | 📅 2024-12-21 - Set reminder to a message in a group. [ᴜsᴇ](https://t.me/thymisebot)
 * [dcdunkan/ryportbot](https://github.com/dcdunkan/ryportbot) ⭐ 15 | 🐛 0 | 🌐 TypeScript | 📅 2024-10-08 - Time-aware bot for reporting members to admins. [ᴜsᴇ](https://t.me/ryportbot)
@@ -39,8 +39,8 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 * [gab-palmeri/TagBot](https://github.com/gab-palmeri/TagBot) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-12 - Create tags to mention multiple group members at once. [ᴜsᴇ](https://t.me/grouptags_bot)
 * [vrumger/WhisperedBot](https://github.com/vrumger/WhisperedBot) ⭐ 9 | 🐛 1 | 🌐 JavaScript | 📅 2023-07-18 - Send whispers to people in groups so no one else can read them. [ᴜsᴇ](https://t.me/WhisperedBot)
 * [voxelin/unihook](https://github.com/voxelin/unihook) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2025-06-01 - This bot makes a webhook listener and parses its payload by user-given template. [ᴜsᴇ](https://t.me/uniwebhookbot)
-* [Burhanverse/tunified](https://github.com/Burhanverse/Tunified) ⚠️ Archived - A Telegram bot to fetch the currently playing song from Last.fm and shares it on Telegram.
 * [KnorpelSenf/cattpbot](https://github.com/KnorpelSenf/cattpbot) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-27 - Send cat pictures from <https://http.cat> instead of HTTP status codes. [ᴜsᴇ](https://t.me/cattpbot)
+* [Burhanverse/tunified](https://github.com/Burhanverse/Tunified) ⚠️ Archived - A Telegram bot to fetch the currently playing song from Last.fm and shares it on Telegram.
 * [gabeklavans/gamejay-bot](https://github.com/gabeklavans/gamejay-bot) ⚠️ Archived - Serves various multiplayer mini-games, inspired by GamePigeon for iOS. [ᴜsᴇ](https://t.me/gamejaybot)
 * [Yonle/etchosts](https://github.com/Yonle/etchosts) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2022-04-18 - A bot that generates DNS files for domains. [ᴜsᴇ](https://t.me/etchosts_bot)
 * [Taofeekabdulazeez/word-ninjas](https://github.com/Taofeekabdulazeez/word-ninjas) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-12 - A game where multiple players compete to solve anagrams in real-time.
@@ -73,4 +73,4 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
