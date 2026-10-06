@@ -62,7 +62,7 @@
             "id": 451886942,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T02:50:12Z",
+            "last_commit": "2026-10-05T17:03:04Z",
             "open_issues": 11,
             "owner": "tg-watchdog",
             "repo": "tg-watchdog",
@@ -621,27 +621,6 @@
         },
         {
           "node_type": "item",
-          "title": "voxelin/unihook",
-          "description": "This bot makes a webhook listener and parses its payload by user-given template. ᴜsᴇ",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "UniHook - Bot that simply integrates webhooks.",
-            "homepage": null,
-            "id": 574224296,
-            "language": "JavaScript",
-            "license": null,
-            "last_commit": "2025-06-01T04:27:42Z",
-            "open_issues": 0,
-            "owner": "domovyi",
-            "repo": "unihook",
-            "stars": 9,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T13:05:26.186Z"
-        },
-        {
-          "node_type": "item",
           "title": "KnorpelSenf/cattpbot",
           "description": "Send cat pictures from https://http.cat instead of HTTP status codes. ᴜsᴇ",
           "children": [],
@@ -1116,7 +1095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T07:20:29.519Z",
+    "last_updated": "2026-10-06T07:46:59.075Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of community projects leveraging the grammY ecosystem.",
