@@ -92,7 +92,7 @@
             "open_issues": 6,
             "owner": "Borodutch",
             "repo": "VideoDownloadBot",
-            "stars": 141,
+            "stars": 140,
             "topics": []
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
@@ -787,7 +787,7 @@
             "id": 1296990152,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T04:54:37Z",
+            "last_commit": "2026-10-07T08:07:35Z",
             "open_issues": 12,
             "owner": "IgorShadurin",
             "repo": "weight-telegram-bot",
@@ -1095,7 +1095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T07:26:45.275Z",
+    "last_updated": "2026-10-08T07:42:46.124Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of community projects leveraging the grammY ecosystem.",
