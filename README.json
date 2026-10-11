@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "backmeupplz",
             "repo": "voicy",
-            "stars": 914,
+            "stars": 915,
             "topics": [
               "bot",
               "speech-to-text",
@@ -62,7 +62,7 @@
             "id": 451886942,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-09T19:54:37Z",
+            "last_commit": "2026-10-10T10:12:46Z",
             "open_issues": 11,
             "owner": "tg-watchdog",
             "repo": "tg-watchdog",
@@ -1095,7 +1095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T07:25:37.466Z",
+    "last_updated": "2026-10-11T07:30:26.124Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of community projects leveraging the grammY ecosystem.",
