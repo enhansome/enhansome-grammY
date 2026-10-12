@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "backmeupplz",
             "repo": "voicy",
-            "stars": 915,
+            "stars": 914,
             "topics": [
               "bot",
               "speech-to-text",
@@ -351,7 +351,7 @@
             "open_issues": 2,
             "owner": "binamralamsal",
             "repo": "WordSeek",
-            "stars": 19,
+            "stars": 20,
             "topics": [
               "drizzle-orm",
               "grammy",
@@ -468,7 +468,7 @@
             "id": 402202222,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2021-10-20T11:25:01Z",
+            "last_commit": "2026-10-11T19:15:59Z",
             "open_issues": 0,
             "owner": "vrumger",
             "repo": "GibHugBot",
@@ -1095,7 +1095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T07:30:26.124Z",
+    "last_updated": "2026-10-12T07:38:28.522Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of community projects leveraging the grammY ecosystem.",

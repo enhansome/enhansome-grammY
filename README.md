@@ -13,7 +13,7 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 
 ## Bots
 
-* [backmeupplz/voicy](https://github.com/backmeupplz/voicy/) ⭐ 915 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-08 - A bot that transcribes audio messages to text.
+* [backmeupplz/voicy](https://github.com/backmeupplz/voicy/) ⭐ 914 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-08 - A bot that transcribes audio messages to text.
 * [callsmusic/remix](https://github.com/callsmusic/remix) ⚠️ Archived - Stream YouTube videos, radios and audio files in Telegram calls.
 * [Astrian/tg-watchdog](https://github.com/Astrian/tg-watchdog) ⭐ 148 | 🐛 11 | 🌐 TypeScript | 📅 2026-10-10 - The brand new anti-abuse solution for group chats. [ᴜsᴇ](https://t.me/WatchdogVerifyBot?startgroup=start\&admin=can_invite_users)
 * [Borodutch/VideoDownloadBot](https://github.com/Borodutch/VideoDownloadBot) ⭐ 141 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-08 - Download videos from the Internet to Telegram.
@@ -26,12 +26,12 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 * [SpEcHiDe/JsonBot](https://github.com/SpEcHiDe/JsonBot) ⭐ 26 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-23 - A bot that sends the JSON representations of most of the updates of the Bot API.
 * [darvesh/thewatbot](https://github.com/darvesh/thewatbot) ⭐ 23 | 🐛 0 | 🌐 TypeScript | 📅 2025-12-10 - Inline dictionary bot. Supports many languages. [ᴜsᴇ](https://t.me/thewatbot)
 * [KnorpelSenf/link-preview-bot](https://github.com/KnorpelSenf/link-preview-bot) ⭐ 20 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-03 - Generate link previews for all links in messages. [ᴜsᴇ](https://t.me/linkpreviewbot)
-* [binamralamsal/WordSeek](https://github.com/binamralamsal/WordSeek) ⭐ 19 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-03 - A fun and competitive Wordle-style game that you can play with friends. [ᴜsᴇ](https://t.me/WordSeekBot)
+* [binamralamsal/WordSeek](https://github.com/binamralamsal/WordSeek) ⭐ 20 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-03 - A fun and competitive Wordle-style game that you can play with friends. [ᴜsᴇ](https://t.me/WordSeekBot)
 * [kolay-v/chessbot-reborn](https://github.com/kolay-v/chessbot-reborn) ⭐ 17 | 🐛 0 | 🌐 TypeScript | 📅 2024-01-09 - The inline PvP chess game bot. [ᴜsᴇ](https://t.me/chess101bot)
 * [darvesh/remindmebot](https://github.com/darvesh/remindmebot) ⭐ 15 | 🐛 0 | 🌐 TypeScript | 📅 2024-12-21 - Set reminder to a message in a group. [ᴜsᴇ](https://t.me/thymisebot)
 * [dcdunkan/ryportbot](https://github.com/dcdunkan/ryportbot) ⭐ 15 | 🐛 0 | 🌐 TypeScript | 📅 2024-10-08 - Time-aware bot for reporting members to admins. [ᴜsᴇ](https://t.me/ryportbot)
 * [ShinkarenkoMaxim/simple-quiz](https://github.com/ShinkarenkoMaxim/simple-quiz) ⭐ 14 | 🐛 0 | 🌐 TypeScript | 📅 2022-05-07 - A simple quiz bot as Web App.
-* [vrumger/GibHugBot](https://github.com/vrumger/GibHugBot) ⭐ 13 | 🐛 0 | 🌐 TypeScript | 📅 2021-10-20 - Get notified about GitHub events right in Telegram. [ᴜsᴇ](https://t.me/GibHugBot)
+* [vrumger/GibHugBot](https://github.com/vrumger/GibHugBot) ⭐ 13 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-11 - Get notified about GitHub events right in Telegram. [ᴜsᴇ](https://t.me/GibHugBot)
 * [SpamWatch/SpamWatchBot](https://github.com/SpamWatch/SpamWatchBot) ⚠️ Archived - The official help bot for SpamWatch. [ᴜsᴇ](https://t.me/SpamWatchBot)
 * [SaDi-BRo/openai-bot](https://github.com/SaDi-BRo/openai-bot) ⭐ 13 | 🐛 0 | 🌐 TypeScript | 📅 2023-03-10 - Interact with OpenAI APIs from Telegram.
 * [Burhanverse/rssify](https://github.com/Burhanverse/rssify) ⚠️ Archived - A feature-rich RSS bot with support for forum topics.
@@ -73,4 +73,4 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
