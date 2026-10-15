@@ -62,7 +62,7 @@
             "id": 451886942,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-13T09:30:42Z",
+            "last_commit": "2026-10-14T16:06:26Z",
             "open_issues": 11,
             "owner": "tg-watchdog",
             "repo": "tg-watchdog",
@@ -281,7 +281,7 @@
             "open_issues": 1,
             "owner": "SpEcHiDe",
             "repo": "JsonBot",
-            "stars": 26,
+            "stars": 27,
             "topics": []
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
@@ -1095,7 +1095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T06:23:44.533Z",
+    "last_updated": "2026-10-15T06:06:08.355Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of community projects leveraging the grammY ecosystem.",
