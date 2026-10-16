@@ -15,7 +15,7 @@
             "id": 75456200,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-13T07:41:32Z",
+            "last_commit": "2026-10-15T21:31:47Z",
             "open_issues": 1,
             "owner": "backmeupplz",
             "repo": "voicy",
@@ -468,7 +468,7 @@
             "id": 402202222,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-11T19:15:59Z",
+            "last_commit": "2026-10-15T16:43:23Z",
             "open_issues": 0,
             "owner": "vrumger",
             "repo": "GibHugBot",
@@ -1095,7 +1095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T06:06:08.355Z",
+    "last_updated": "2026-10-16T06:02:53.791Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of community projects leveraging the grammY ecosystem.",
