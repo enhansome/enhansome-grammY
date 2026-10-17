@@ -822,6 +822,36 @@
             "topics": []
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
+        },
+        {
+          "node_type": "item",
+          "title": "theluckystrike/telegram-reminder-bot",
+          "description": "Set and manage reminders in Telegram chats, running on Cloudflare Workers. ᴜsᴇ",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Telegram reminder bot for any group chat — reminders delivered in chat by a 1-minute cron, in your own timezone.",
+            "homepage": "https://tg.zovo.one/bots/nudge/",
+            "id": 1356580328,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-09-09T08:56:30Z",
+            "open_issues": 0,
+            "owner": "theluckystrike",
+            "repo": "telegram-reminder-bot",
+            "stars": 0,
+            "topics": [
+              "cloudflare-workers",
+              "durable-objects",
+              "grammy",
+              "reminders",
+              "telegram",
+              "telegram-bot",
+              "telegram-mini-app",
+              "typescript"
+            ]
+          },
+          "first_seen": "2026-10-17T05:49:33.145Z"
         }
       ],
       "title": "Bots"
@@ -1065,6 +1095,48 @@
         },
         {
           "node_type": "item",
+          "title": "FlowCastle/flowcastle-sdk",
+          "description": "Middleware that adds a contact CRM, live chat, broadcasts, and conversion analytics to your bot via the hosted FlowCastle dashboard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Add CRM, Live Chat, broadcasts & analytics to your Telegram bot — SDK for grammY, Telegraf, aiogram, python-telegram-bot. Keep your code and your token.",
+            "homepage": "https://flowcastle.ai",
+            "id": 1348598291,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-08-30T13:19:54Z",
+            "open_issues": 0,
+            "owner": "FlowCastle",
+            "repo": "flowcastle-sdk",
+            "stars": 4,
+            "topics": [
+              "aiogram",
+              "analytics",
+              "bot-builder",
+              "bot-development",
+              "bot-framework",
+              "broadcast",
+              "chatbot",
+              "crm",
+              "grammy",
+              "live-chat",
+              "no-code",
+              "nodejs",
+              "python",
+              "python-telegram-bot",
+              "sdk",
+              "telegraf",
+              "telegram",
+              "telegram-bot",
+              "telegram-bot-api",
+              "typescript"
+            ]
+          },
+          "first_seen": "2026-10-17T05:49:33.145Z"
+        },
+        {
+          "node_type": "item",
           "title": "@toptl/grammy",
           "description": "Plugin for TOP.TL, the Telegram directory. Auto-posts bot stats and enables vote-gating.",
           "children": [],
@@ -1095,7 +1167,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T06:02:53.791Z",
+    "last_updated": "2026-10-17T05:49:33.145Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of community projects leveraging the grammY ecosystem.",
@@ -1103,8 +1175,8 @@
       "id": 399372284,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-07-27T17:53:09Z",
-      "open_issues": 7,
+      "last_commit": "2026-10-16T16:24:51Z",
+      "open_issues": 5,
       "owner": "grammyjs",
       "repo": "awesome-grammY",
       "stars": 283,
@@ -1114,7 +1186,7 @@
         "hacktoberfest"
       ]
     },
-    "original_repository_sha": "9c26a6fb3eb05cb3310750b733acc5ef5fe6af2c",
+    "original_repository_sha": "2a41e1810a2682a8e5a91300850353e21ea9a7ea",
     "enhanced_repository": "enhansome/enhansome-grammY",
     "enhanced_repository_description": null,
     "title": "Awesome grammY with stars"

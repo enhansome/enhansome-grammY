@@ -46,6 +46,7 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 * [Emidio21/FilmChecker-TGBot](https://github.com/Emidio21/FilmChecker-TGBot) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2023-04-18 - Search which platform hosts a movie all around the world.
 * [IgorShadurin/weight-telegram-bot](https://github.com/IgorShadurin/weight-telegram-bot) ⭐ 1 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-07 - Track photo-backed weekly weight goals in groups with charts, reminders, 53 achievements, and nine natural localizations. [ᴜsᴇ](https://t.me/my_weight_goal_bot).
 * [DeltaUniverse/peerUser](https://github.com/DeltaUniverse/peerUser) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-30 - Auto-Delete Incoming Private Messages. [ᴜsᴇ](https://t.me/peerUserbot)
+* [theluckystrike/telegram-reminder-bot](https://github.com/theluckystrike/telegram-reminder-bot) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-09 - Set and manage reminders in Telegram chats, running on Cloudflare Workers. [ᴜsᴇ](https://t.me/NudgeRemindBot)
 * [@ChannelHashBot](https://t.me/ChannelHashBot) - Keep track of hashtags that are sent to your group by forwarding them to a channel.
 * [@yestoscambot](https://t.me/yestoscambot) - A bot that bans as many spammers as it can!
 * [voxelin/unihook](https://github.com/voxelin/unihook) - This bot makes a webhook listener and parses its payload by user-given template. [ᴜsᴇ](https://t.me/uniwebhookbot)
@@ -69,8 +70,9 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 ## Plugins
 
 * [VDS13/telegram-inline-calendar](https://github.com/VDS13/telegram-inline-calendar) ⭐ 112 | 🐛 1 | 🌐 JavaScript | 📅 2025-03-26 - Date picker and inline calendar for your bots.
+* [FlowCastle/flowcastle-sdk](https://github.com/FlowCastle/flowcastle-sdk) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-30 - Middleware that adds a contact CRM, live chat, broadcasts, and conversion analytics to your bot via the hosted FlowCastle dashboard.
 * [@toptl/grammy](https://github.com/top-tl/grammy) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-21 - Plugin for TOP.TL, the Telegram directory. Auto-posts bot stats and enables vote-gating.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
