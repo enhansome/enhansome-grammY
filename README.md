@@ -70,9 +70,9 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 ## Plugins
 
 * [VDS13/telegram-inline-calendar](https://github.com/VDS13/telegram-inline-calendar) ⭐ 112 | 🐛 1 | 🌐 JavaScript | 📅 2025-03-26 - Date picker and inline calendar for your bots.
-* [FlowCastle/flowcastle-sdk](https://github.com/FlowCastle/flowcastle-sdk) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-30 - Middleware that adds a contact CRM, live chat, broadcasts, and conversion analytics to your bot via the hosted FlowCastle dashboard.
+* [FlowCastle/flowcastle-sdk](https://github.com/FlowCastle/flowcastle-sdk) ⭐ 4 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-19 - Middleware that adds a contact CRM, live chat, broadcasts, and conversion analytics to your bot via the hosted FlowCastle dashboard.
 * [@toptl/grammy](https://github.com/top-tl/grammy) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-21 - Plugin for TOP.TL, the Telegram directory. Auto-posts bot stats and enables vote-gating.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
