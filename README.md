@@ -13,9 +13,9 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 
 ## Bots
 
-* [backmeupplz/voicy](https://github.com/backmeupplz/voicy/) ⭐ 914 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-18 - A bot that transcribes audio messages to text.
+* [backmeupplz/voicy](https://github.com/backmeupplz/voicy/) ⭐ 914 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-20 - A bot that transcribes audio messages to text.
 * [callsmusic/remix](https://github.com/callsmusic/remix) ⚠️ Archived - Stream YouTube videos, radios and audio files in Telegram calls.
-* [Astrian/tg-watchdog](https://github.com/Astrian/tg-watchdog) ⭐ 148 | 🐛 11 | 🌐 TypeScript | 📅 2026-10-14 - The brand new anti-abuse solution for group chats. [ᴜsᴇ](https://t.me/WatchdogVerifyBot?startgroup=start\&admin=can_invite_users)
+* [Astrian/tg-watchdog](https://github.com/Astrian/tg-watchdog) ⭐ 148 | 🐛 11 | 🌐 TypeScript | 📅 2026-10-20 - The brand new anti-abuse solution for group chats. [ᴜsᴇ](https://t.me/WatchdogVerifyBot?startgroup=start\&admin=can_invite_users)
 * [Borodutch/VideoDownloadBot](https://github.com/Borodutch/VideoDownloadBot) ⭐ 141 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-08 - Download videos from the Internet to Telegram.
 * [ArnabXD/TGVCBot](https://github.com/ArnabXD/TGVCBot) ⭐ 98 | 🐛 4 | 🌐 TypeScript | 📅 2026-06-12 - Play music in group voice chat. Supports JioSaavn, YouTube and files.
 * [bot-base/scan-tool-bot](https://github.com/bot-base/scan-tool-bot) ⭐ 46 | 🐛 2 | 🌐 TypeScript | 📅 2024-06-25 - Scan QR codes with your camera. [ᴜsᴇ](https://t.me/ScanToolBot)
@@ -31,7 +31,7 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 * [darvesh/remindmebot](https://github.com/darvesh/remindmebot) ⭐ 16 | 🐛 0 | 🌐 TypeScript | 📅 2024-12-21 - Set reminder to a message in a group. [ᴜsᴇ](https://t.me/thymisebot)
 * [dcdunkan/ryportbot](https://github.com/dcdunkan/ryportbot) ⭐ 15 | 🐛 0 | 🌐 TypeScript | 📅 2024-10-08 - Time-aware bot for reporting members to admins. [ᴜsᴇ](https://t.me/ryportbot)
 * [ShinkarenkoMaxim/simple-quiz](https://github.com/ShinkarenkoMaxim/simple-quiz) ⭐ 14 | 🐛 0 | 🌐 TypeScript | 📅 2022-05-07 - A simple quiz bot as Web App.
-* [vrumger/GibHugBot](https://github.com/vrumger/GibHugBot) ⭐ 13 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-15 - Get notified about GitHub events right in Telegram. [ᴜsᴇ](https://t.me/GibHugBot)
+* [vrumger/GibHugBot](https://github.com/vrumger/GibHugBot) ⭐ 13 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-20 - Get notified about GitHub events right in Telegram. [ᴜsᴇ](https://t.me/GibHugBot)
 * [SpamWatch/SpamWatchBot](https://github.com/SpamWatch/SpamWatchBot) ⚠️ Archived - The official help bot for SpamWatch. [ᴜsᴇ](https://t.me/SpamWatchBot)
 * [SaDi-BRo/openai-bot](https://github.com/SaDi-BRo/openai-bot) ⭐ 13 | 🐛 0 | 🌐 TypeScript | 📅 2023-03-10 - Interact with OpenAI APIs from Telegram.
 * [Burhanverse/rssify](https://github.com/Burhanverse/rssify) ⚠️ Archived - A feature-rich RSS bot with support for forum topics.
@@ -75,4 +75,4 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
