@@ -15,8 +15,8 @@
             "id": 75456200,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-22T03:24:18Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-22T23:14:06Z",
+            "open_issues": 0,
             "owner": "backmeupplz",
             "repo": "voicy",
             "stars": 914,
@@ -1167,7 +1167,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T06:18:14.932Z",
+    "last_updated": "2026-10-23T06:12:05.010Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of community projects leveraging the grammY ecosystem.",
