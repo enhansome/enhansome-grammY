@@ -15,7 +15,7 @@
             "id": 75456200,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-22T23:14:06Z",
+            "last_commit": "2026-10-24T04:31:26Z",
             "open_issues": 0,
             "owner": "backmeupplz",
             "repo": "voicy",
@@ -88,11 +88,11 @@
             "id": 430181916,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-08T22:25:02Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-24T06:00:27Z",
+            "open_issues": 0,
             "owner": "Borodutch",
             "repo": "VideoDownloadBot",
-            "stars": 141,
+            "stars": 140,
             "topics": []
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
@@ -905,7 +905,7 @@
           "description": "Telegram bot starter based on grammY.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "Telegram bot starter based on grammY",
             "homepage": "https://templates.borodutch.com",
             "id": 181808319,
@@ -1167,7 +1167,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T06:12:05.010Z",
+    "last_updated": "2026-10-24T06:08:45.411Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of community projects leveraging the grammY ecosystem.",
