@@ -22,9 +22,13 @@
             "stars": 914,
             "topics": [
               "bot",
+              "speech-recognition",
               "speech-to-text",
-              "telegam",
-              "telegram-bot"
+              "telegram",
+              "telegram-bot",
+              "transcription",
+              "voice-messages",
+              "voice-to-text"
             ]
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
@@ -62,7 +66,7 @@
             "id": 451886942,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-21T12:52:29Z",
+            "last_commit": "2026-10-26T21:51:52Z",
             "open_issues": 11,
             "owner": "tg-watchdog",
             "repo": "tg-watchdog",
@@ -468,7 +472,7 @@
             "id": 402202222,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-20T13:59:11Z",
+            "last_commit": "2026-10-26T18:07:44Z",
             "open_issues": 0,
             "owner": "vrumger",
             "repo": "GibHugBot",
@@ -837,7 +841,7 @@
             "license": "MIT",
             "last_commit": "2026-09-09T08:56:30Z",
             "open_issues": 0,
-            "owner": "theluckystrike",
+            "owner": "zovo-one",
             "repo": "telegram-reminder-bot",
             "stars": 0,
             "topics": [
@@ -1167,7 +1171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T06:37:05.292Z",
+    "last_updated": "2026-10-27T06:32:07.412Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of community projects leveraging the grammY ecosystem.",
