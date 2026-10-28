@@ -10,7 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "@voicybot Telegram bot main repository",
+            "description": "Voicy (@voicybot): a Telegram bot that turns voice messages into text in groups and private chats",
             "homepage": "https://voicybot.com",
             "id": 75456200,
             "language": "JavaScript",
@@ -66,7 +66,7 @@
             "id": 451886942,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T21:51:52Z",
+            "last_commit": "2026-10-28T02:29:08Z",
             "open_issues": 11,
             "owner": "tg-watchdog",
             "repo": "tg-watchdog",
@@ -92,7 +92,7 @@
             "id": 430181916,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-25T15:10:09Z",
+            "last_commit": "2026-10-28T02:42:38Z",
             "open_issues": 0,
             "owner": "Borodutch",
             "repo": "VideoDownloadBot",
@@ -1171,7 +1171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T06:32:07.412Z",
+    "last_updated": "2026-10-28T07:01:30.454Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of community projects leveraging the grammY ecosystem.",
