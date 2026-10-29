@@ -15,7 +15,7 @@
             "id": 75456200,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-25T23:24:53Z",
+            "last_commit": "2026-10-28T20:46:54Z",
             "open_issues": 0,
             "owner": "backmeupplz",
             "repo": "voicy",
@@ -66,7 +66,7 @@
             "id": 451886942,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-28T02:29:08Z",
+            "last_commit": "2026-10-29T00:00:21Z",
             "open_issues": 11,
             "owner": "tg-watchdog",
             "repo": "tg-watchdog",
@@ -87,17 +87,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Telegram bot to download videos from URLs",
+            "description": "@VideoDownloadBot: a Telegram bot that downloads videos from YouTube, TikTok, Instagram, X and many more sites by link, up to 2 GB",
             "homepage": "https://t.me/VideoDownloadBot",
             "id": 430181916,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-28T02:42:38Z",
+            "last_commit": "2026-10-29T00:05:02Z",
             "open_issues": 0,
             "owner": "Borodutch",
             "repo": "VideoDownloadBot",
             "stars": 140,
-            "topics": []
+            "topics": [
+              "bun",
+              "instagram-downloader",
+              "telegram",
+              "telegram-bot",
+              "tiktok-downloader",
+              "video-downloader",
+              "youtube-downloader",
+              "yt-dlp"
+            ]
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
         },
@@ -228,7 +237,7 @@
             "id": 137970634,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2024-06-21T14:22:32Z",
+            "last_commit": "2026-10-28T14:28:37Z",
             "open_issues": 1,
             "owner": "ThemerBot",
             "repo": "ThemerBot",
@@ -351,7 +360,7 @@
             "id": 846999709,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-24T12:45:29Z",
+            "last_commit": "2026-10-28T13:16:38Z",
             "open_issues": 2,
             "owner": "binamralamsal",
             "repo": "WordSeek",
@@ -1171,7 +1180,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T07:01:30.454Z",
+    "last_updated": "2026-10-29T07:23:21.273Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of community projects leveraging the grammY ecosystem.",
@@ -1180,7 +1189,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-16T16:24:51Z",
-      "open_issues": 5,
+      "open_issues": 6,
       "owner": "grammyjs",
       "repo": "awesome-grammY",
       "stars": 283,
