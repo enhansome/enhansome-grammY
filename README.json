@@ -92,7 +92,7 @@
             "id": 430181916,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-31T04:55:32Z",
+            "last_commit": "2026-10-31T13:47:41Z",
             "open_issues": 0,
             "owner": "Borodutch",
             "repo": "VideoDownloadBot",
@@ -1180,7 +1180,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T07:14:00.404Z",
+    "last_updated": "2026-11-01T07:46:41.403Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of community projects leveraging the grammY ecosystem.",
