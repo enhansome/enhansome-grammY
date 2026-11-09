@@ -360,7 +360,7 @@
             "id": 846999709,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-02T04:57:40Z",
+            "last_commit": "2026-11-09T05:31:57Z",
             "open_issues": 2,
             "owner": "binamralamsal",
             "repo": "WordSeek",
@@ -821,7 +821,7 @@
           "description": "Auto-Delete Incoming Private Messages. ᴜsᴇ",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": null,
             "homepage": "https://t.me/peerUserbot",
             "id": 1311775353,
@@ -888,7 +888,7 @@
             "open_issues": 15,
             "owner": "bot-base",
             "repo": "telegram-bot-template",
-            "stars": 445,
+            "stars": 446,
             "topics": [
               "bot",
               "bun",
@@ -1180,7 +1180,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T07:39:07.684Z",
+    "last_updated": "2026-11-09T08:18:52.696Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of community projects leveraging the grammY ecosystem.",

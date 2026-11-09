@@ -26,7 +26,7 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 * [SpEcHiDe/JsonBot](https://github.com/SpEcHiDe/JsonBot) ⭐ 27 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-23 - A bot that sends the JSON representations of most of the updates of the Bot API.
 * [darvesh/thewatbot](https://github.com/darvesh/thewatbot) ⭐ 23 | 🐛 0 | 🌐 TypeScript | 📅 2025-12-10 - Inline dictionary bot. Supports many languages. [ᴜsᴇ](https://t.me/thewatbot)
 * [KnorpelSenf/link-preview-bot](https://github.com/KnorpelSenf/link-preview-bot) ⭐ 20 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-03 - Generate link previews for all links in messages. [ᴜsᴇ](https://t.me/linkpreviewbot)
-* [binamralamsal/WordSeek](https://github.com/binamralamsal/WordSeek) ⭐ 20 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-02 - A fun and competitive Wordle-style game that you can play with friends. [ᴜsᴇ](https://t.me/WordSeekBot)
+* [binamralamsal/WordSeek](https://github.com/binamralamsal/WordSeek) ⭐ 20 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-09 - A fun and competitive Wordle-style game that you can play with friends. [ᴜsᴇ](https://t.me/WordSeekBot)
 * [kolay-v/chessbot-reborn](https://github.com/kolay-v/chessbot-reborn) ⭐ 17 | 🐛 0 | 🌐 TypeScript | 📅 2024-01-09 - The inline PvP chess game bot. [ᴜsᴇ](https://t.me/chess101bot)
 * [darvesh/remindmebot](https://github.com/darvesh/remindmebot) ⭐ 16 | 🐛 0 | 🌐 TypeScript | 📅 2024-12-21 - Set reminder to a message in a group. [ᴜsᴇ](https://t.me/thymisebot)
 * [dcdunkan/ryportbot](https://github.com/dcdunkan/ryportbot) ⭐ 15 | 🐛 0 | 🌐 TypeScript | 📅 2024-10-08 - Time-aware bot for reporting members to admins. [ᴜsᴇ](https://t.me/ryportbot)
@@ -45,7 +45,7 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 * [Taofeekabdulazeez/word-ninjas](https://github.com/Taofeekabdulazeez/word-ninjas) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-12 - A game where multiple players compete to solve anagrams in real-time.
 * [Emidio21/FilmChecker-TGBot](https://github.com/Emidio21/FilmChecker-TGBot) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2023-04-18 - Search which platform hosts a movie all around the world.
 * [IgorShadurin/weight-telegram-bot](https://github.com/IgorShadurin/weight-telegram-bot) ⭐ 1 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-07 - Track photo-backed weekly weight goals in groups with charts, reminders, 53 achievements, and nine natural localizations. [ᴜsᴇ](https://t.me/my_weight_goal_bot).
-* [DeltaUniverse/peerUser](https://github.com/DeltaUniverse/peerUser) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-30 - Auto-Delete Incoming Private Messages. [ᴜsᴇ](https://t.me/peerUserbot)
+* [DeltaUniverse/peerUser](https://github.com/DeltaUniverse/peerUser) ⚠️ Archived - Auto-Delete Incoming Private Messages. [ᴜsᴇ](https://t.me/peerUserbot)
 * [theluckystrike/telegram-reminder-bot](https://github.com/theluckystrike/telegram-reminder-bot) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-09 - Set and manage reminders in Telegram chats, running on Cloudflare Workers. [ᴜsᴇ](https://t.me/NudgeRemindBot)
 * [@ChannelHashBot](https://t.me/ChannelHashBot) - Keep track of hashtags that are sent to your group by forwarding them to a channel.
 * [@yestoscambot](https://t.me/yestoscambot) - A bot that bans as many spammers as it can!
@@ -56,7 +56,7 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 
 ## Templates
 
-* [bot-base/telegram-bot-template](https://github.com/bot-base/telegram-bot-template) ⭐ 445 | 🐛 15 | 🌐 TypeScript | 📅 2025-11-26 - A starter bot template with a scalable structure and ready-to-use Docker setup.
+* [bot-base/telegram-bot-template](https://github.com/bot-base/telegram-bot-template) ⭐ 446 | 🐛 15 | 🌐 TypeScript | 📅 2025-11-26 - A starter bot template with a scalable structure and ready-to-use Docker setup.
 * [Borodutch/telegram-bot-starter](https://github.com/Borodutch/telegram-bot-starter) ⚠️ Archived - Telegram bot starter based on grammY.
 * [PavelPolyakov/grammy-with-tests](https://github.com/PavelPolyakov/grammy-with-tests) ⭐ 29 | 🐛 1 | 🌐 TypeScript | 📅 2025-05-16 - An example bot which is covered with tests.
 * [ShinkarenkoMaxim/webapp-vanilla](https://github.com/ShinkarenkoMaxim/webapp-vanilla) ⭐ 20 | 🐛 0 | 🌐 HTML | 📅 2022-05-06 - Telegram Web App starter template.
@@ -76,4 +76,4 @@ This is a curated list of projects that are using grammY. Anyone is welcome to t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
