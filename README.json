@@ -15,7 +15,7 @@
             "id": 75456200,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-10T01:10:58Z",
+            "last_commit": "2026-11-11T01:28:40Z",
             "open_issues": 0,
             "owner": "backmeupplz",
             "repo": "voicy",
@@ -360,7 +360,7 @@
             "id": 846999709,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-10T08:33:04Z",
+            "last_commit": "2026-11-11T04:58:58Z",
             "open_issues": 2,
             "owner": "binamralamsal",
             "repo": "WordSeek",
@@ -888,7 +888,7 @@
             "open_issues": 15,
             "owner": "bot-base",
             "repo": "telegram-bot-template",
-            "stars": 447,
+            "stars": 448,
             "topics": [
               "bot",
               "bun",
@@ -1180,7 +1180,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T08:36:35.015Z",
+    "last_updated": "2026-11-11T07:56:58.139Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of community projects leveraging the grammY ecosystem.",
