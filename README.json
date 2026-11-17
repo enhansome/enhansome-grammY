@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "backmeupplz",
             "repo": "voicy",
-            "stars": 914,
+            "stars": 915,
             "topics": [
               "bot",
               "speech-recognition",
@@ -66,7 +66,7 @@
             "id": 451886942,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-12T10:05:41Z",
+            "last_commit": "2026-11-17T02:14:10Z",
             "open_issues": 11,
             "owner": "tg-watchdog",
             "repo": "tg-watchdog",
@@ -888,7 +888,7 @@
             "open_issues": 15,
             "owner": "bot-base",
             "repo": "telegram-bot-template",
-            "stars": 448,
+            "stars": 447,
             "topics": [
               "bot",
               "bun",
@@ -928,7 +928,7 @@
             "open_issues": 0,
             "owner": "Borodutch",
             "repo": "telegram-bot-starter",
-            "stars": 241,
+            "stars": 242,
             "topics": [
               "mongodb",
               "telegram",
@@ -1180,7 +1180,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T08:13:03.507Z",
+    "last_updated": "2026-11-17T09:28:01.130Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of community projects leveraging the grammY ecosystem.",
@@ -1192,7 +1192,7 @@
       "open_issues": 5,
       "owner": "grammyjs",
       "repo": "awesome-grammY",
-      "stars": 283,
+      "stars": 284,
       "topics": [
         "awesome",
         "awesome-list",
