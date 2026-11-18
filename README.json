@@ -888,7 +888,7 @@
             "open_issues": 15,
             "owner": "bot-base",
             "repo": "telegram-bot-template",
-            "stars": 447,
+            "stars": 448,
             "topics": [
               "bot",
               "bun",
@@ -1180,7 +1180,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T09:28:01.130Z",
+    "last_updated": "2026-11-18T08:46:02.121Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of community projects leveraging the grammY ecosystem.",
