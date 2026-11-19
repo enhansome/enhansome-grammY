@@ -15,7 +15,7 @@
             "id": 75456200,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-11T01:28:40Z",
+            "last_commit": "2026-11-19T06:57:43Z",
             "open_issues": 0,
             "owner": "backmeupplz",
             "repo": "voicy",
@@ -92,11 +92,11 @@
             "id": 430181916,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-06T19:20:07Z",
+            "last_commit": "2026-11-19T08:27:04Z",
             "open_issues": 0,
             "owner": "Borodutch",
             "repo": "VideoDownloadBot",
-            "stars": 142,
+            "stars": 143,
             "topics": [
               "bun",
               "instagram-downloader",
@@ -1180,7 +1180,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T08:46:02.121Z",
+    "last_updated": "2026-11-19T09:01:02.554Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of community projects leveraging the grammY ecosystem.",
