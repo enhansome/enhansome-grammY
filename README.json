@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "backmeupplz",
             "repo": "voicy",
-            "stars": 915,
+            "stars": 916,
             "topics": [
               "bot",
               "speech-recognition",
@@ -49,7 +49,7 @@
             "open_issues": 1,
             "owner": "callsmusic",
             "repo": "remix",
-            "stars": 188,
+            "stars": 189,
             "topics": []
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
@@ -92,7 +92,7 @@
             "id": 430181916,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-19T13:49:45Z",
+            "last_commit": "2026-11-24T10:36:00Z",
             "open_issues": 0,
             "owner": "Borodutch",
             "repo": "VideoDownloadBot",
@@ -1180,7 +1180,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T09:22:52.262Z",
+    "last_updated": "2026-11-24T11:17:38.751Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of community projects leveraging the grammY ecosystem.",
