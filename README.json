@@ -15,7 +15,7 @@
             "id": 75456200,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-23T07:47:00Z",
+            "last_commit": "2026-11-24T18:30:01Z",
             "open_issues": 0,
             "owner": "backmeupplz",
             "repo": "voicy",
@@ -92,11 +92,11 @@
             "id": 430181916,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-24T10:36:00Z",
+            "last_commit": "2026-11-24T16:36:04Z",
             "open_issues": 0,
             "owner": "Borodutch",
             "repo": "VideoDownloadBot",
-            "stars": 143,
+            "stars": 144,
             "topics": [
               "bun",
               "instagram-downloader",
@@ -227,6 +227,29 @@
         },
         {
           "node_type": "item",
+          "title": "ThemerBot/ThemerBot",
+          "description": "Create themes for most official Telegram apps based on a picture. ᴜsᴇ",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Telegram bot to create Telegram themes based on a picture.",
+            "homepage": "https://t.me/ThemerBot",
+            "id": 137970634,
+            "language": "TypeScript",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-10-29T10:21:58Z",
+            "open_issues": 1,
+            "owner": "ThemerBot",
+            "repo": "ThemerBot",
+            "stars": 30,
+            "topics": [
+              "hacktoberfest"
+            ]
+          },
+          "first_seen": "2026-08-28T13:05:26.186Z"
+        },
+        {
+          "node_type": "item",
           "title": "dcdunkan/syntax-highlighter-bot",
           "description": "Syntax highlighting for code blocks in messages. ᴜsᴇ",
           "children": [],
@@ -251,29 +274,6 @@
               "puppeteer",
               "syntax-highlighting",
               "telegram-bot"
-            ]
-          },
-          "first_seen": "2026-08-28T13:05:26.186Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ThemerBot/ThemerBot",
-          "description": "Create themes for most official Telegram apps based on a picture. ᴜsᴇ",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Telegram bot to create Telegram themes based on a picture.",
-            "homepage": "https://t.me/ThemerBot",
-            "id": 137970634,
-            "language": "TypeScript",
-            "license": "AGPL-3.0",
-            "last_commit": "2026-10-29T10:21:58Z",
-            "open_issues": 1,
-            "owner": "ThemerBot",
-            "repo": "ThemerBot",
-            "stars": 29,
-            "topics": [
-              "hacktoberfest"
             ]
           },
           "first_seen": "2026-08-28T13:05:26.186Z"
@@ -1180,7 +1180,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T11:17:38.751Z",
+    "last_updated": "2026-11-25T10:03:30.902Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of community projects leveraging the grammY ecosystem.",
