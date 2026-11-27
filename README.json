@@ -96,7 +96,7 @@
             "open_issues": 0,
             "owner": "Borodutch",
             "repo": "VideoDownloadBot",
-            "stars": 144,
+            "stars": 145,
             "topics": [
               "bun",
               "instagram-downloader",
@@ -1180,7 +1180,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T09:46:24.548Z",
+    "last_updated": "2026-11-27T09:52:12.318Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of community projects leveraging the grammY ecosystem.",
