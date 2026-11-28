@@ -15,7 +15,7 @@
             "id": 75456200,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-24T18:30:01Z",
+            "last_commit": "2026-11-28T07:10:11Z",
             "open_issues": 0,
             "owner": "backmeupplz",
             "repo": "voicy",
@@ -92,7 +92,7 @@
             "id": 430181916,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-26T06:28:41Z",
+            "last_commit": "2026-11-28T07:09:43Z",
             "open_issues": 0,
             "owner": "Borodutch",
             "repo": "VideoDownloadBot",
@@ -1180,7 +1180,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T09:52:12.318Z",
+    "last_updated": "2026-11-28T09:05:10.066Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of community projects leveraging the grammY ecosystem.",
